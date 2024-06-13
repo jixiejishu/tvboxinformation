@@ -48,7 +48,7 @@
 {"url": "https://www.xn--rgv465a.top/刺猬线路禁止贩卖 ","name": "☂搜集┃无界/刺猬"},
 {"url": "http://xhztv.top/xhz ","name": "☂搜集┃小盒"},
 {"url": "http://xhztv.top/4k.json ","name": "☂搜集┃小盒4K"},
-{"url": "https://xhdwc.tk/0  ","name": "☂搜集┃dxawi0线路"}
+{"url": "https://xhdwc.tk/0  ","name": "☂搜集┃dxawi0线路"},
 {"url": "http://itvbox.cc/云星日记 ","name": "☂搜集┃云星日记"}
 ]
 }
