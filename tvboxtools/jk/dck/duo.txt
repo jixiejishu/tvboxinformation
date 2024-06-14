@@ -3,17 +3,17 @@
 {"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
 {"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
-{"sourceName": "☘️欧歌tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt"},
+{"sourceName": "☘️欧歌tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
 {"sourceName": "🌷小盒多仓🌷","sourceUrl": "http://xhztv.top/tvbox.txt"},
-{"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc"},
+{"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
 {"sourceName": "🌷摸鱼多仓（主）🌷","sourceUrl": "http://小鱼干.摸鱼儿.top"},
 {"sourceName": "🌷毒盒多仓（主）🌷","sourceUrl": "https://tv.youdu.fan:666"},
-{"sourceName": "🌷运输车多仓（主）🌷","sourceUrl": "https://weixine.net/api.json"},
-{"sourceName": "🌷运输车多仓（备）🌷","sourceUrl": "https://cf.weixine.net/api.json"},
 {"sourceName": "🌷青木精品仓 🌷","sourceUrl": "https://tvbox.aoki.fun/ck"},
 {"sourceName": "🌷青木普通仓 🌷","sourceUrl": "https://tvbox.aoki.fun/pt"},
 {"sourceName": "☁️云星在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/在线仓"},
 {"sourceName": "☁️可视本地仓库","sourceUrl": "http://itvbox.cc/可视仓库/本地仓"},
-{"sourceName": "☁️神州在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/神州在线仓"}
+{"sourceName": "☁️神州在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/神州在线仓"},
+{"sourceName": "🌹tvbox助手&搜集🌹","sourceUrl": "https://gitdl.cn/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🌹tvbox助手&搜集（备用）🌹","sourceUrl": "https://gitee.com/jixiejishu/tvbox/raw/master/jk/dxl/T&S.txt"}
   ]
 }
