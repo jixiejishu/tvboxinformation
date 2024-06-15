@@ -1,3 +1,4 @@
+http://tv.nxog.top/
 {
   "storeHouse": [
     {
@@ -14,6 +15,29 @@
     },
     {
       "sourceName": "☘️tv本地肋手仓库☘️",
+      "sourceUrl": "clan://localhost/tvbox/dc.txt"
+    }
+  ]
+}
+
+与前面内容相同
+https://vip.nxog.top
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌹欧歌tdw主仓库🌹",
+      "sourceUrl": "http://xn--tdw-mf3g9f.v.nxog.top/nxog/ou1.php?b=欧歌tdw"
+    },
+    {
+      "sourceName": "🌹欧歌tdw备1仓库🌹",
+      "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌tdw"
+    },
+    {
+      "sourceName": "🌷欧歌tdw备2仓库🌷",
+      "sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=欧歌tdw"
+    },
+    {
+      "sourceName": "☘️欧歌tdw本地肋手仓库☘️",
       "sourceUrl": "clan://localhost/tvbox/dc.txt"
     }
   ]
