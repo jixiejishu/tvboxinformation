@@ -1,6 +1,6 @@
 {
   "storeHouse": [
-{{"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
+{"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
 {"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
 {"sourceName": "☘️欧歌tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
