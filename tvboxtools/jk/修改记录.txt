@@ -1,0 +1,12 @@
+2024.6.30
+github加速项目：
+https://ghproxy.net/ 
+https://ghproxy.com
+失效
+单线路和多线路的内加速地址改成
+https://github.moeyy.xyz/
+
+
+2024.7.3
+经测试；TVbox助手提出来的链接内的图形符号导致QQ打开乱码。
+因此删除前面的符号
