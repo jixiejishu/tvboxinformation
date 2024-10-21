@@ -9,7 +9,6 @@
 {"sourceName": "🌷摸鱼多仓（主）🌷","sourceUrl": "http://小鱼干.摸鱼儿.top"},
 {"sourceName": "🌷毒盒多仓（主）🌷","sourceUrl": "https://tv.youdu.fan:666"},
 {"sourceName": "🌷毒盒多仓（备）🌷","sourceUrl": "https://youdu.fan/DC.txt"},
-{"sourceName": "🌷无界多仓🌷","sourceUrl": "https://www.xn--rgv465a.top/无界多仓禁止贩卖"},
 {"sourceName": "🌹tvbox助手&搜集🌹","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🌹tvbox助手&搜集（备用）🌹","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"}
 ]
