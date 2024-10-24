@@ -1,0 +1,17 @@
+{
+  "storeHouse": [
+{"sourceName": "🌹常用线路+本地🌹","sourceUrl": "assets://a"},
+{"sourceName": "🌹更多常用线路+本地🌹","sourceUrl": "assets://b"},
+{"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
+{"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
+{"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
+{"sourceName": "☘️欧歌tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
+{"sourceName": "🌷小盒多仓🌷","sourceUrl": "http://xhztv.top/tvbox.txt"},
+{"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
+{"sourceName": "🌷摸鱼多仓（主）🌷","sourceUrl": "http://小鱼干.摸鱼儿.top"},
+{"sourceName": "🌷毒盒多仓（主）🌷","sourceUrl": "https://tv.youdu.fan:666"},
+{"sourceName": "🌷毒盒多仓（备）🌷","sourceUrl": "https://youdu.fan/DC.txt"},
+{"sourceName": "🌹tvbox助手&搜集+本地🌹","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SN.txt"},
+{"sourceName": "🌹tvbox助手&搜集+本地（备用）🌹","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&SN.txt"}
+]
+}
