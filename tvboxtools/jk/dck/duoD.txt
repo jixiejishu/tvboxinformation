@@ -1,15 +1,21 @@
-{
-  "storeHouse": [
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速（道长等线路不适合家庭观看）
+{ "storeHouse": [
 {"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
 {"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
-{"sourceName": "☘️欧歌tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
-{"sourceName": "🌷小盒多仓🌷","sourceUrl": "http://xhztv.top/tvbox.txt"},
+{"sourceName": "📁欧歌tv本地肋手仓库","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
+{"sourceName": "☁️云星在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/在线仓 "},
+//18+
+{"sourceName": "☘️天微精选仓☘️","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
+{"sourceName": "☘️小盒多仓☘️","sourceUrl": "http://xhztv.top/tvbox.txt"},
 {"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
-{"sourceName": "🌷摸鱼多仓（主）🌷","sourceUrl": "http://小鱼干.摸鱼儿.top"},
-{"sourceName": "🌷毒盒多仓（主）🌷","sourceUrl": "https://tv.youdu.fan:666"},
-{"sourceName": "🌷毒盒多仓（备）🌷","sourceUrl": "https://youdu.fan/DC.txt"},
-{"sourceName": "🌹tvbox助手&搜集🌹","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
-{"sourceName": "🌹tvbox助手&搜集（备用）🌹","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&SD.txt"}
-]
-}
+//失效{"sourceName": "☘️摸鱼多仓（主）☘️","sourceUrl": "http://小鱼干.摸鱼儿.top"},
+//18+
+{"sourceName": "☘️毒盒多仓（主）☘️","sourceUrl": "https://tv.youdu.fan:666"},
+//18+
+{"sourceName": "🌳毒盒多仓（备）🌳","sourceUrl": "https://youdu.fan/DC.txt"},
+{"sourceName": "🔩tvbox助手&搜集🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩tvbox助手&搜集（备用）🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"}
+
+]}
+
