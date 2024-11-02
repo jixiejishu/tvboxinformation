@@ -28,7 +28,7 @@ http://kxrj.site:55
 http://kxrj.site:55 
  🌳常用┃南风线路:
 https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json 
- 🌳常用┃Ray线路（骚零）:
+ 🌳常用┃Ray线路（骚零/俊于）:
 https://100km.top/0 
  🌳常用┃香雅情线路:
 https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
@@ -115,3 +115,14 @@ https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json
 https://盒子迷.top/禁止贩卖  
  ☂️搜集┃运输车线路:
 https://weixine.net/ysc.json 
+
+ 🍂鸭先知┃俊哥线路:
+http://home.jundie.top:81/top98.json 
+ 🍂鸭先知┃pandown线路:
+http://pandown.pro/tvbox/tvbox.json 
+ 🍂鸭先知┃电视软件网:
+https://zzzzz.tv/tv/ys.json 
+ 🍂鸭先知┃电视软件网VIP:
+https://zzzzz.tv/tv/svip.json 
+
+
