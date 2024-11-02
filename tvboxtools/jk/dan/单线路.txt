@@ -44,7 +44,7 @@ https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json
 
  🚀TVbox助手┃网盘线路:
 http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json 
-18+ 🚀TVbox助手┃One线路:
+ 🚀TVbox助手┃One线路:
 https://raw.kkgithub.com/leevi0709/one/main/jsm.json 
 18+ 🚀TVbox助手┃道长线路:
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json 
