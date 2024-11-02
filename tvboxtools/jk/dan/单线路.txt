@@ -1,13 +1,23 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速（道长线路不适合家庭观看）
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速（道长等线路不适合家庭观看）
 
  🌳常用┃肥猫线路:
 http://肥猫.com 
- 🌳常用┃肥猫线路（备用）:
+ 🌳常用┃肥猫线路（备用1）:
+http://like.肥猫.com/你好 
+ 🌳常用┃肥猫线路（备用2）:
 https://肥猫.live 
+ 🌳常用┃肥猫线路（备用3）:
+http://我不是.肥猫.live/ 
  🌳常用┃饭太硬线路:
 http://www.饭太硬.com/tv 
- 🌳常用┃饭太硬线路（备用）:
+ 🌳常用┃饭太硬线路（备用1）:
 http://fty.888484.xyz/tv 
+ 🌳常用┃饭太硬线路（备用2）:
+http://fty.xxooo.cf/tv 
+ 🌳常用┃饭太硬线路（备用3）:
+http://fan.xxooo.cf/tv 
+ 🌳常用┃饭太硬线路（备用4）:
+http://fan.eu.org/tv 
  🌳常用┃小米线路:
 http://www.mpanso.com/小米/DEMO.json 
  🌳常用┃ok线路:
@@ -40,19 +50,21 @@ http://itvbox.cc/云星日记
 https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh 
  🌳常用┃高天流云线路:
 https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json 
-
-
+ 
+ 
+ 
+ 
  🚀TVbox助手┃网盘线路:
 http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json 
  🚀TVbox助手┃One线路:
 https://raw.kkgithub.com/leevi0709/one/main/jsm.json 
-18+ 🚀TVbox助手┃道长线路:
+ //18+🚀TVbox助手┃道长线路:
 https://gitlab.com/duomv/dzhipy/-/raw/main/index.json 
  🚀TVbox助手┃D老魔改线路:
 https://download.kstore.space/download/2883/nzk/nzk0722.json 
- 🐹TVbox助手┃荷城（日后）线路:
+ //失效🐹TVbox助手┃荷城（日后）线路:
 http://rihou.cc:88/荷城茶秀 
- 失效🐹TVbox助手┃春盈天下:
+ //失效🐹TVbox助手┃春盈天下:
 https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master 
  🐹TVbox助手┃星辰（玉玉）线路:
 https://fmbox.cc 
@@ -62,15 +74,15 @@ http://47.99.102.252/xc.json
 http://meowtv.cn/tv 
  🐹TVbox助手┃青龙线路:
 https://cloud.lxweb.cn/f/EeMZhX/1.json 
-失效🐹TVbox助手┃天微线路:
+ //失效🐹TVbox助手┃天微线路:
 https://gitee.com/tvkj/tw/raw/main/svip.json 
  🐹TVbox助手┃月光（宝盒）线路:
 http://ygbhbox.3vfree.club/pg/jsm.json 
-失效🐹TVbox助手┃吾爱线路:
+ //失效🐹TVbox助手┃吾爱线路:
 http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0 
  💎TVbox助手┃不良帅线路:
 https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json 
-失效💎TVbox助手┃T4线路:
+ //失效💎TVbox助手┃T4线路:
 https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json 
  💎TVbox助手┃龙伊线路:
 https://龙伊.top 
@@ -78,7 +90,7 @@ https://龙伊.top
 https://yydf.540734621.xyz/QQ/yydf2024.json 
  💎TVbox助手┃无意云线路:
 https://download.kstore.space/download/2883/nzk/nzk0722.json 
-失效💎TVbox助手┃二哈线路:
+ 💎TVbox助手┃二哈线路:
 https://raw.kkgithub.com/2hacc/TVBox/main/tvbox.json 
  💎TVbox助手┃技巧线路:
 http://cdn.qiaoji8.com/tvbox.json 
@@ -90,13 +102,15 @@ https://szyyds.cn/tv/x.json
 https://gitee.com/dongchenzx/liu/raw/master/hb.json 
  💎TVbox助手┃东辰线路2:
 https://gitee.com/dongchenzx/fs/raw/master/ha.json 
-
-
+ 
+ 
+ 
+ 
  🏄️小盒酷玩┃小盒:
 http://xhztv.top/xhz 
  🏄️小盒酷玩┃小盒4K:
 http://xhztv.top/4k.json 
-失效🏄️小盒酷玩┃毒盒接口：
+ //失效🏄️小盒酷玩┃毒盒接口：
 https://毒盒.com/tv 
  🏄️小盒酷玩┃PG线路：
 https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json 
@@ -104,9 +118,12 @@ https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json
 https://www.yingm.cc/dm/dm.json 
  🏄️小盒酷玩┃dxawi线路接口：
 https://dxawi.github.io/0/0.json 
-伦理片 🏄️小盒酷玩┃HG线路：
+ //伦理片🏄️小盒酷玩┃HG线路：
 https://api.hgyx.vip/hgyx.json 
-
+ 
+ 
+ 
+ 
  ☂️搜集┃SoEasy同学导航:
 https://www.soeasy.love/tvbox/config.json 
  ☂️搜集┃SoEasy同学gitee:
@@ -115,7 +132,10 @@ https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json
 https://盒子迷.top/禁止贩卖  
  ☂️搜集┃运输车线路:
 https://weixine.net/ysc.json 
-
+ 
+ 
+ 
+ 
  🍂鸭先知┃俊哥线路:
 http://home.jundie.top:81/top98.json 
  🍂鸭先知┃pandown线路:
@@ -124,5 +144,3 @@ http://pandown.pro/tvbox/tvbox.json
 https://zzzzz.tv/tv/ys.json 
  🍂鸭先知┃电视软件网VIP:
 https://zzzzz.tv/tv/svip.json 
-
-
