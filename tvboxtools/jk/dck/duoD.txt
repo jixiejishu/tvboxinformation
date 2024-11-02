@@ -4,18 +4,22 @@
 {"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
 {"sourceName": "📁欧歌tv本地肋手仓库","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
+//含道长18+
 {"sourceName": "☁️云星在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/在线仓 "},
-//18+
+//含道长等18+
 {"sourceName": "☘️天微精选仓☘️","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
 {"sourceName": "☘️小盒多仓☘️","sourceUrl": "http://xhztv.top/tvbox.txt"},
 {"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
 //失效{"sourceName": "☘️摸鱼多仓（主）☘️","sourceUrl": "http://小鱼干.摸鱼儿.top"},
-//18+
+//含道长等18+
 {"sourceName": "☘️毒盒多仓（主）☘️","sourceUrl": "https://tv.youdu.fan:666"},
-//18+
+//含道长等18+
 {"sourceName": "🌳毒盒多仓（备）🌳","sourceUrl": "https://youdu.fan/DC.txt"},
-{"sourceName": "🔩tvbox助手&搜集🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName": "🔩tvbox助手&搜集（备用）🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"}
+{"sourceName": "🔩自制在线接口┃网络搜集🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩自制在线接口┃网络搜集（备用1）🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
+{"sourceName": "🔩自制在线接口┃网络搜集（备用2）🔩","sourceUrl": "https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/T&S.txt"}
+{"sourceName": "🔩自制在线接口┃网络搜集（备用3）🔩","sourceUrl": "https://7731.kstore.space/tvbox/tvboxtools/jk/dxl/T﹠S.txt"}
+{"sourceName": "🔩自制在线接口┃网络搜集（影视专用）🔩","sourceUrl": "https://2281309612%40qq.com:aim9u6y7zzt3h5qn@dav.jianguoyun.com/dav/TVbox/tvboxtools/jk/dxl/T%26S.txt"}
+
 
 ]}
-
