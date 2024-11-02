@@ -23,7 +23,7 @@
 
 
 {"url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json ","name": "🚀TVbox助手┃网盘线路"},
-//18+{"url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json ","name": "🚀TVbox助手┃One线路"},
+{"url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json ","name": "🚀TVbox助手┃One线路"},
 //18+{"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "🚀TVbox助手┃道长线路"},
 {"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json ","name": "🚀TVbox助手┃D老魔改线路"},
 {"url": "http://rihou.cc:88/荷城茶秀 ","name": "🐹TVbox助手┃荷城（日后）线路"},
@@ -51,7 +51,7 @@
 {"url": "http://xhztv.top/xhz ","name": "🏄️小盒酷玩┃小盒"},
 {"url": "http://xhztv.top/4k.json ","name": "🏄️小盒酷玩┃小盒4K"},
 //失效{"url": "https://毒盒.com/tv ","name": "🏄️小盒酷玩┃毒盒接口"},
-//18+{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json ","name": "🏄️小盒酷玩┃PG线路"},
+{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json ","name": "🏄️小盒酷玩┃PG线路"},
 {"url": "https://www.yingm.cc/dm/dm.json ","name": "🏄️小盒酷玩┃动漫城接口"},
 {"url": "https://dxawi.github.io/0/0.json ","name": "🏄️小盒酷玩┃dxawi线路接口"},
 //伦理{"url": "https://api.hgyx.vip/hgyx.json ","name": "🏄️小盒酷玩┃HG线路"},
