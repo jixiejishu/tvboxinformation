@@ -8,7 +8,7 @@
 {"url": "http://kxrj.site:55 ","name": "🌳常用┃开心线路"},
 {"url": "http://kxrj.site:55 ","name": "🌳常用┃开心线路（备用）"},
 {"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json ","name": "🌳常用┃南风线路"},
-{"url": "https://100km.top/0 ","name": "🌳常用┃Ray线路（骚零）"},
+{"url": "https://100km.top/0 ","name": "🌳常用┃Ray线路（骚零/俊于）"},
 {"url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json ","name": "🌳常用┃香雅情线路"},
 {"url": "https://raw.kkgithub.com/liu673cn/box/main/m.json ","name": "🌳常用┃刘老备线路"},
 {"url": "http://itvbox.cc/云星日记 ","name": "🌳常用┃云星日记"},
@@ -30,8 +30,8 @@
 //失效{"url": "https://gitee.com/tvkj/tw/raw/main/svip.json ","name": "🐹TVbox助手┃天微线路"},
 {"url": "http://ygbhbox.3vfree.club/pg/jsm.json ","name": "🐹TVbox助手┃月光（宝盒）线路"},
 {"url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0 ","name": "🐹TVbox助手┃吾爱线路"},
-{"url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json ","name": "💎TVbox助手┃不良帅线路"},
-//失效{"url": "https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json ","name": "💎TVbox助手┃T4线路"},
+//失效{"url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json ","name": "💎TVbox助手┃不良帅线路"},
+{"url": "https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json ","name": "💎TVbox助手┃T4线路"},
 {"url": "https://龙伊.top ","name": "💎TVbox助手┃龙伊线路"},
 {"url": "https://yydf.540734621.xyz/QQ/yydf2024.json ","name": "💎TVbox助手┃业余线路"},
 {"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json ","name": "💎TVbox助手┃无意云线路"},
@@ -55,7 +55,11 @@
 {"url": "https://www.soeasy.love/tvbox/config.json ","name": "☂️搜集┃SoEasy同学导航"},
 {"url": "https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json ","name": "☂️搜集┃SoEasy同学gitee"},
 {"url": "https://盒子迷.top/禁止贩卖  ","name": "☂️搜集┃盒子迷线路"},
-{"url": "https://weixine.net/ysc.json ","name": "☂️搜集┃运输车线路"}
+{"url": "https://weixine.net/ysc.json ","name": "☂️搜集┃运输车线路"},
 
 
+{"url": "http://home.jundie.top:81/top98.json ","name": "🍂鸭先知┃俊哥线路"},
+{"url": "http://pandown.pro/tvbox/tvbox.json ","name": "🍂鸭先知┃pandown线路"},
+{"url": "https://zzzzz.tv/tv/ys.json ","name": "🍂鸭先知┃电视软件网"},
+{"url": "https://zzzzz.tv/tv/svip.json ","name": "🍂鸭先知┃电视软件网VIP"}
 ]}
