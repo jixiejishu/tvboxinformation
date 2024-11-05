@@ -58,8 +58,6 @@ https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json
 http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json 
  🚀TVbox助手┃One线路:
 https://raw.kkgithub.com/leevi0709/one/main/jsm.json 
- //18+🚀TVbox助手┃道长线路:
-https://gitlab.com/duomv/dzhipy/-/raw/main/index.json 
  🚀TVbox助手┃D老魔改线路:
 https://download.kstore.space/download/2883/nzk/nzk0722.json 
  //失效🐹TVbox助手┃荷城（日后）线路:
@@ -118,8 +116,6 @@ https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json
 https://www.yingm.cc/dm/dm.json 
  🏄️小盒酷玩┃dxawi线路接口：
 https://dxawi.github.io/0/0.json 
- //伦理片🏄️小盒酷玩┃HG线路：
-https://api.hgyx.vip/hgyx.json 
  
  
  
