@@ -1,23 +1,22 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速（道长等线路不适合家庭观看）
-{ "storeHouse": [
-{"sourceName": "🌹欧歌tv主仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=tv"},
-{"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
-{"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
-{"sourceName": "📁欧歌tv本地肋手仓库","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
-//含道长18+
-{"sourceName": "☁️云星在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/在线仓 "},
-//含道长等18+
-{"sourceName": "☘️天微精选仓☘️","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
-{"sourceName": "☘️小盒多仓☘️","sourceUrl": "http://xhztv.top/tvbox.txt"},
-{"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
-//失效{"sourceName": "☘️摸鱼多仓（主）☘️","sourceUrl": "http://小鱼干.摸鱼儿.top"},
-//含道长等18+
-{"sourceName": "☘️毒盒多仓（主）☘️","sourceUrl": "https://tv.youdu.fan:666"},
-//含道长等18+
-{"sourceName": "🌳毒盒多仓（备）🌳","sourceUrl": "https://youdu.fan/DC.txt"},
-{"sourceName": "🔩自制在线接口┃网络搜集🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName": "🔩自制在线接口┃网络搜集（备用1）🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
+使用方法：
+
+ 复制线路到 影视仓 等多仓库的接口内会导入仓库
+
+//多仓库
+
+写成多线路格式 导入线路之后，从线路里面无法导入多个多仓
 
 
+8qNvKr 3个仓
 
-]}
+https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json
+
+
+hd9211  很多仓，网络收集没有维护 很多都失效了或者需要使用代理
+
+https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json
+
+https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json
+
+https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
+
