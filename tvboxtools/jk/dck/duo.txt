@@ -11,8 +11,10 @@
 //失效{"sourceName": "☘️摸鱼多仓（主）☘️","sourceUrl": "http://小鱼干.摸鱼儿.top"},
 //含道长等18+{"sourceName": "☘️毒盒多仓（主）☘️","sourceUrl": "https://tv.youdu.fan:666"},
 //含道长等18+{"sourceName": "🌳毒盒多仓（备）🌳","sourceUrl": "https://youdu.fan/DC.txt"},
-{"sourceName": "🔩自制在线接口┃网络搜集🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName": "🔩自制在线接口┃网络搜集（备用1）🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
+//含道长等18+{"sourceName": "☘️天天开心☘️","sourceUrl": "http://ttkx.live:55"},
+//含道长等18+{"sourceName": "🌳天天开心（备）🌳","sourceUrl": "http://kxrj.site:55"},
+{"sourceName": "🔩T%26S🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩T%26S备1🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
 
 
 ]}
