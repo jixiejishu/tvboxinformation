@@ -1,8 +1,8 @@
 {"storeHouse":[
 //自制：
-{"sourceName":"👧codeberg","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
-{"sourceName":"👧Github_kkgithub","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
-{"sourceName":"👧Github_ghp.ci","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧Dcodeberg","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧D备kkgithub","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧D备ghp.ci","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
 //出处：https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json
 {"sourceName":"🍭优选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/cr.txt"},
 {"sourceName":"🌹AAA","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/AAA.json"},
