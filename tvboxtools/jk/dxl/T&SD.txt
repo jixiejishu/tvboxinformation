@@ -1,7 +1,6 @@
 //来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速，为了安全接口只在Github
 {"urls": [
-//伦理片 ，出自小盒酷玩
-{"url": "https://api.hgyx.vip/hgyx.json ","name": "👩小盒酷玩┃HG线路"}，
+
 
 //神州线路的白虎线路，修改地址2024.11.14
 {"url": "https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json","name": "🐯🐯白虎"},
