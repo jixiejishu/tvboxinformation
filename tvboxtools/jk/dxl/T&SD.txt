@@ -2,9 +2,6 @@
 {"urls": [
 
 
-//道长的线路模拟器有可能导入不了，原因未知 出自TVbox助手
-{"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "👩┃道长线路，模拟器可能无效"},
-
 //出自https://github.com/hd9211
 {"url": "https://raw.kkgithub.com/hd9211/Tvbox1/main/zy.json","name": "👩hd9211zy"},
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json","name": "👩hd9211zy备用1"},
