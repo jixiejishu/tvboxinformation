@@ -4,18 +4,10 @@
 {"sourceName": "🌹欧歌tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌tv备2仓库🌷","sourceUrl": "http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
 {"sourceName": "📁欧歌tv本地肋手仓库","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
-//含道长18+{"sourceName": "☁️云星在线仓库","sourceUrl": "http://itvbox.cc/可视仓库/在线仓 "},
-//含道长等18+{"sourceName": "☘️天微精选仓☘️","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
-{"sourceName": "☘️小盒多仓☘️","sourceUrl": "http://xhztv.top/tvbox.txt"},
-{"sourceName": "🌷小盒多仓（备用）🌷","sourceUrl": "http://xhztv.top/dc "},
-//失效{"sourceName": "☘️摸鱼多仓（主）☘️","sourceUrl": "http://小鱼干.摸鱼儿.top"},
-//含道长等18+{"sourceName": "☘️毒盒多仓（主）☘️","sourceUrl": "https://tv.youdu.fan:666"},
-//含道长等18+{"sourceName": "🌳毒盒多仓（备）🌳","sourceUrl": "https://youdu.fan/DC.txt"},
-//含道长等18+失效{"sourceName": "☘️天天开心☘️","sourceUrl": "http://ttkx.live:55"},
-//含道长等18+失效{"sourceName": "🌳天天开心（备）🌳","sourceUrl": "http://kxrj.site:55"},
-//含道长等18+{"sourceName": "🌏无界🌏","sourceUrl": "https://www.xn--rgv465a.top/无界线路多仓版"},
+{"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
 {"sourceName": "🔩T%26S🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName": "🔩T%26S备1🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
+{"sourceName": "🔩T%26S备🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"}
 
 
 ]}
+
