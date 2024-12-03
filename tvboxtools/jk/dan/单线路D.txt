@@ -4,6 +4,7 @@
 https://api.hgyx.vip/hgyx.json 
 
 神州线路的白虎线路，修改地址2024.11.14：
+//codeberg封号作者停止维护
 🐯🐯白虎:
 https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json
 
