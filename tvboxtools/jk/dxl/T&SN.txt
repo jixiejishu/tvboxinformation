@@ -28,10 +28,7 @@
 
 { "url": "assets://tvboxqq/短剧频道/api.json", "name": "短剧频道[本地]" },
 
-{ "url": "assets://tvboxqq/少儿频道/api.json", "name": "少儿频道[本地]" }，
-
-{ "url": "assets://tvboxqq/高天流云/api.json", "name": "高天流云[本地]" }，
-
+{ "url": "assets://tvboxqq/少儿频道/api.json", "name": "少儿频道[本地]" },
 
 {"url": "http://肥猫.com ","name": "🌳常┃肥猫宝贝"},
 {"url": "https://肥猫.com ","name": "🌳常┃肥猫/备1"},
