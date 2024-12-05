@@ -80,6 +80,7 @@
 {"url": "https://www.xn--rgv465a.top/无界线路Pro版 ","name": "☂️搜┃无界专业版"},
 {"url": "https://www.xn--rgv465a.top/无界线路Lite版 ","name": "☂️搜┃无界精简版"},
 {"url": "https://www.xn--rgv465a.top/无界线路Kids版 ","name": "☂️搜┃无界儿童版"},
+{"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
 
 
 {"url": "http://home.jundie.top:81/top98.json ","name": "🍂鸭┃俊哥/俊佬"},
