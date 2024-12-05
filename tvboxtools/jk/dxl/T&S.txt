@@ -81,6 +81,8 @@
 {"url": "https://www.xn--rgv465a.top/无界线路Lite版 ","name": "☂️搜┃无界精简版"},
 {"url": "https://www.xn--rgv465a.top/无界线路Kids版 ","name": "☂️搜┃无界儿童版"},
 {"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
+{"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "☂️搜┃奇奇短剧"},
+{"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "☂️搜┃奇奇少儿"},
 
 
 {"url": "http://home.jundie.top:81/top98.json ","name": "🍂鸭┃俊哥/俊佬"},
