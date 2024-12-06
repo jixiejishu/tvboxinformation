@@ -62,9 +62,11 @@ https://raw.liucn.cc/box/m.json
 https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json 
  🌳常┃高天流云/欧歌:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json 
- 
- 
- 
+  🌳常┃奇奇短剧:
+http://box.ufuzi.com/tv/qq/短剧频道/api.json 
+ 🌳常┃奇奇儿童:
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
+
  
  //闪退部分站点空🚀T┃网盘:
 http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json 
@@ -82,11 +84,11 @@ http://rihou.cc:88/荷城茶秀
 https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json 
  //失效🐹T┃春盈天下:
 https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master 
- //内容闪退失效🐹T┃星辰/玉:
+🐹T┃星辰/玉:
 https://fmbox.cc 
- //内容闪退失效🐹T┃星辰/玉备:
+🐹T┃星辰/玉备:
 http://47.99.102.252/xc.json 
- 🐹T┃喵影视:
+🐹T┃喵影视:
 http://meowtv.cn/tv 
 🐹T┃青龙1:
 https://gitee.com/yiwu369/6758/raw/master/1.json
@@ -162,10 +164,7 @@ https://www.xn--rgv465a.top/无界线路Lite版
 https://www.xn--rgv465a.top/无界线路Kids版 
  ☂️搜┃恒星育华学堂:
 http://yuhuavip1.top/育华学堂/斧头帮.php 
-  ☂️搜┃奇奇短剧:
-http://box.ufuzi.com/tv/qq/短剧频道/api.json 
- ☂️搜┃奇奇少儿:
-https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
+
 
  
  
