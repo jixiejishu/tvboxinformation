@@ -62,6 +62,8 @@
 {"url": "https://raw.liucn.cc/box/m.json ","name": "🌳常┃刘老备/欧歌"},
 {"url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
+{"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
+{"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
 
 
 //闪退部分站点空{"url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json ","name": "🚀T┃网盘"},
@@ -72,8 +74,8 @@
 //失效{"url": "http://rihou.cc:88/荷城茶秀 ","name": "🐹T┃荷城/日后"},
 //失效{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json ","name": "🐹T┃荷城/日后/欧歌"},
 //失效{"url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master ","name": "🐹T┃春盈天下"},
-//内容闪退失效{"url": "https://fmbox.cc ","name": "🐹T┃星辰/玉"},
-//内容闪退失效{"url": "http://47.99.102.252/xc.json ","name": "🐹T┃星辰/玉备"},
+{"url": "https://fmbox.cc ","name": "🐹T┃星辰/玉"},
+{"url": "http://47.99.102.252/xc.json ","name": "🐹T┃星辰/玉备"},
 {"url": "http://meowtv.cn/tv ","name": "🐹T┃喵影视"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/1.json ","name": "🐹T┃青龙1"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🐹T┃青龙2"},
@@ -112,8 +114,7 @@
 {"url": "https://www.xn--rgv465a.top/无界线路Lite版 ","name": "☂️搜┃无界精简版"},
 {"url": "https://www.xn--rgv465a.top/无界线路Kids版 ","name": "☂️搜┃无界儿童版"},
 {"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
-{"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "☂️搜┃奇奇短剧"},
-{"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "☂️搜┃奇奇少儿"},
+
 
 
 {"url": "http://home.jundie.top:81/top98.json ","name": "🍂鸭┃俊哥/俊佬"},
