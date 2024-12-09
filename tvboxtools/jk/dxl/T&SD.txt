@@ -6,14 +6,10 @@
 //codeberg封号作者停止维护{"url": "https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json ","name": "🐯🐯白虎"},
 //道长 只支持影视（fongmi）和Easybox：
 {"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "👩┃道长影视和Easybox"},
-//出自https://github.com/hd9211：
-{"url": "https://raw.kkgithub.com/hd9211/Tvbox1/main/zy.json ","name": "👩hd9211zy"},
-{"url": "https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json ","name": "👩hd9211zy备用1"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json ","name": "👩hd9211zy备用2"},
 //出自 https://github.com/8qNvKr/188 （单线路）：
-{"url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json ","name": "👩呱哥"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json ","name": "👩呱哥备用"},
-{"url": "https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 ","name": "👩神V"},
+{"url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥备用"},
+//失效{"url": "https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 ","name": "👩神V"},
 //更新比较慢：
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json ","name": "👩aliluya1977pp"},
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa11.json ","name": "👩aliluya1977pp11"},
