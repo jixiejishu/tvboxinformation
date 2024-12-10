@@ -33,6 +33,11 @@
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
+{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt ","name": "🌳常┃zyt"},
+{"url": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备1"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备2"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备3"},
+
 
 
 //闪退部分站点空{"url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json ","name": "🚀T┃网盘"},
