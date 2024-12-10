@@ -66,6 +66,15 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/maste
 http://box.ufuzi.com/tv/qq/短剧频道/api.json 
  🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
+ 🌳常┃zyt:
+https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
+ 🌳常┃zyt备1:
+https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
+ 🌳常┃zyt备2:
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
+ 🌳常┃zyt备3:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
+
 
  
  //闪退部分站点空🚀T┃网盘:
