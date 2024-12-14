@@ -9,7 +9,7 @@
 {"sourceName": "🔩常用刘加速🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用欧加速🔩","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用ghp🔩","sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName": "🔩常用凯速备🔩","sourceUrl": "https://7731.kstore.space/tvbox/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩常用凯速备🔩","sourceUrl": "https://d.kstore.dev/download/7731/tvbox/tvboxtools/jk/dxl/T%EF%B9%A0S.txt"},
 {"sourceName": "🔩常用gitee🔩","sourceUrl": "https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/T&S.txt"}
 
 
