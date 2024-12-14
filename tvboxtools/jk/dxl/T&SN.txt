@@ -71,6 +71,12 @@
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备1"},
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备2"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备3"},
+{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt ","name": "🌳常┃zytcodeberg"},
+{"url": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备1"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt备2"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt欧歌"},
+{"url": "https://d.kstore.dev/download/7731/zyt/api.txt ","name": "🌳常┃zyt凯速"},
+{"url": "https://gitee.com/jixiejishu/zyt/raw/main/api.txt ","name": "🌳常┃zytgtee"},
 
 
 
@@ -78,7 +84,8 @@
 {"url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One/欧歌借用"},
 
-{"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json ","name": "🚀T┃D老魔改"},
+//接口格式修改{"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json ","name": "🚀T┃D老魔改"},
+{"url": "https://d.kstore.dev/download/2883/nzk/nzk0722.json ","name": "🚀T┃D老魔改"},
 //失效{"url": "http://rihou.cc:88/荷城茶秀 ","name": "🐹T┃荷城/日后"},
 //失效{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json ","name": "🐹T┃荷城/日后/欧歌"},
 //失效{"url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master ","name": "🐹T┃春盈天下"},
