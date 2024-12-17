@@ -69,7 +69,7 @@ https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
  🌳常┃zytcodeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
  🌳常┃zytgithub:
-https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
+https://raw.kkgithub.com/jixiejishu/zyt/main/api.txt 
  🌳常┃zytghproxy:
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
  🌳常┃zytghp.ci:
