@@ -68,16 +68,19 @@ http://box.ufuzi.com/tv/qq/短剧频道/api.json
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
  🌳常┃zytcodeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
- 🌳常┃zyt备1:
+ 🌳常┃zytgithub:
 https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
- 🌳常┃zyt备2:
+ 🌳常┃zytghproxy:
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
- 🌳常┃zyt欧歌:
+ 🌳常┃zytghp.ci:
+https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
+ 🌳常┃zyt欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt 
  🌳常┃zyt凯速:
 https://d.kstore.dev/download/7731/zyt/api.txt 
- 🌳常┃zytgtee:
+ 🌳常┃zytgitee:
 https://gitee.com/jixiejishu/zyt/raw/main/api.txt 
+
 
 
  
