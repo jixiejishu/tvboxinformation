@@ -1,21 +1,21 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了刘老备的加速（道长等线路不适合家庭观看）
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）
 
-🌳常┃肥猫宝贝:
-http://肥猫.com
-🌳常┃肥猫/备1:
-https://肥猫.com
-🌳常┃肥猫/备2:
-http://ceshi.肥猫.com/PandaQ
-🌳常┃饭太硬:
-http://www.饭太硬.com/tv
-🌳常┃饭太硬/备1:
-http://www.饭太硬.xyz/tv
-🌳常┃饭太硬/备2:
-http://fty.888484.xyz/tv
-🌳常┃饭太硬/备3:
-http://fty.xxooo.cf/tv
-🌳常┃饭太硬/备4:
-http://饭太硬.com/tv
+ 🌳常┃肥猫宝贝:
+http://肥猫.com 
+ 🌳常┃肥猫/备1:
+https://肥猫.com 
+ 🌳常┃肥猫/备2:
+http://ceshi.肥猫.com/PandaQ 
+ 🌳常┃饭太硬:
+http://www.饭太硬.com/tv 
+ 🌳常┃饭太硬/备1:
+http://www.饭太硬.xyz/tv 
+ 🌳常┃饭太硬/备2:
+http://fty.888484.xyz/tv 
+ 🌳常┃饭太硬/备3:
+http://fty.xxooo.cf/tv 
+ 🌳常┃饭太硬/备4:
+http://饭太硬.com/tv 
  🌳常┃吃猫的鱼:
 https://7213.kstore.vip/吃猫的鱼 
  🌳常┃小米线路:
@@ -46,23 +46,31 @@ https://100km.top/0
 https://9877.kstore.space/FourD/api.json 
  //停用🌳常┃潇洒/欧歌借用:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json 
- 🌳常┃南风:
+ 🌳常┃南风/jsdelivr:
+https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json 
+ 🌳常┃南风/刘老备:
 https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json 
  🌳常┃南风/欧歌:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json 
+ 🌳常┃香雅情/jsdelivr:
+https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json 
  🌳常┃香雅情:
 https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
  🌳常┃香雅情/欧歌:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
+ 🌳常┃刘老备/jsdelivr:
+https://raw.kkgithub.com/liu673cn/box/main/m.json 
  🌳常┃刘老备:
 https://raw.kkgithub.com/liu673cn/box/main/m.json 
  🌳常┃刘老备/欧歌:
 https://raw.liucn.cc/box/m.json 
- 🌳常┃高天流云:
+ 🌳常┃高天流云//jsdelivr:
+https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@main/js.json 
+ 🌳常┃高天流云/刘老备:
 https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json 
  🌳常┃高天流云/欧歌:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json 
-  🌳常┃奇奇短剧:
+ 🌳常┃奇奇短剧:
 http://box.ufuzi.com/tv/qq/短剧频道/api.json 
  🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
@@ -70,6 +78,8 @@ https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
  🌳常┃zytgitlab:
 https://gitlab.com/jixiejishu/zyt/-/raw/main/api.txt 
+ 🌳常┃zytjsdelivr:
+https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.txt 
  🌳常┃zyt刘加速:
 https://raw.kkgithub.com/jixiejishu/zyt/main/api.txt 
  🌳常┃zytghproxy:
@@ -82,6 +92,7 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/hea
 https://d.kstore.dev/download/7731/zyt/api.txt 
  🌳常┃zytgitee:
 https://gitee.com/jixiejishu/zyt/raw/main/api.txt 
+
 
 
 
