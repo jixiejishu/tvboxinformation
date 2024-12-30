@@ -74,6 +74,10 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/maste
 http://box.ufuzi.com/tv/qq/短剧频道/api.json 
  🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
+ 🌳常┃PG:
+http://www.fish2018.us.kg/p/jsm.json  
+ 🌳常┃PG备:
+http://tv.devopser.org/p/jsm.json 
  🌳常┃zytcodeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
  🌳常┃zytgitlab:
@@ -166,7 +170,7 @@ http://xhztv.top/xhz
 http://xhztv.top/4k.json 
  //失效🏄️盒┃毒盒：
 https://毒盒.com/tv 
- 🏄️盒┃PG：
+ //失效🏄️盒┃PG：
 https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json 
  🏄️盒┃动漫城 ：
 https://www.yingm.cc/dm/dm.json 
@@ -208,3 +212,14 @@ http://pandown.pro/tvbox/tvbox.json
 https://zzzzz.tv/tv/ys.json 
  //空线路🍂鸭┃TV网VIP:
 https://zzzzz.tv/tv/svip.json 
+
+
+
+➡️➡️➡️OKPG定制接口：
+出处：
+https://gongdian.top/app/
+
+饭太硬：https://gongdian.top/tvbox/fan.json
+潇洒哥：https://gongdian.top/tvbox/xiaosa.json
+王小二放牛娃：https://gongdian.top/tvbox/niu.json
+OK线路：https://gongdian.top/tvbox/ok.json
