@@ -69,6 +69,8 @@
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
+{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://tv.devopser.org/p/jsm.json ","name": "🌳常┃PG备"},
 {"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt ","name": "🌳常┃zytcodeberg"},
 {"url": "https://gitlab.com/jixiejishu/zyt/-/raw/main/api.txt ","name": "🌳常┃zytgitlab"},
 {"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.txt ","name": "🌳常┃zytjsdelivr"},
@@ -117,7 +119,7 @@
 {"url": "http://xhztv.top/xhz ","name": "🏄️盒┃小盒"},
 {"url": "http://xhztv.top/4k.json ","name": "🏄️盒┃小盒4K"},
 //失效{"url": "https://毒盒.com/tv ","name": "🏄️盒┃毒盒"},
-{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json ","name": "🏄️盒┃PG"},
+//失效{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json ","name": "🏄️盒┃PG"},
 {"url": "https://www.yingm.cc/dm/dm.json ","name": "🏄️盒┃动漫城 "},
 //接口失效{"url": "https://dxawi.github.io/0/0.json ","name": "🏄️盒┃dxawi "},
 
