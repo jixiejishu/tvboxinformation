@@ -1,0 +1,13 @@
+{"storeHouse":[
+//自制：
+{"sourceName":"👧Dcodeberg","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧D备kkgithub","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧D备ghp.ci","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
+//出处：https://github.com/8qNvKr/188。原来的线路已经删除
+//https://github.com/hd9211/Tvbox1
+{"sourceName":"🈲CR","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
+{"sourceName":"🈲duocang","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json"},
+{"sourceName":"🈲duocang1","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang1.json"},
+{"sourceName":"🈲wuheng18_ysc","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/wuheng18_ysc.json"},
+{"sourceName":"🈲优质","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"}
+]}
