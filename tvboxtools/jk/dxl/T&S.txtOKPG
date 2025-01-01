@@ -1,0 +1,20 @@
+//来自于https://gongdian.top/app/   其中的OKPG。本接口是OKPG专用，其它的使用本接口的直播源无法使用
+//PG包本身就带allinone
+{"urls": [
+{"url": "https://gongdian.top/tvbox/fan.json  ","name": "🐏OKPG┃饭太硬"},
+{"url": "https://gongdian.top/tvbox/xiaosa.json  ","name": "🐏OKPG┃潇洒哥"},
+{"url": "https://gongdian.top/tvbox/niu.json  ","name": "🐏OKPG┃王小二放牛"},
+{"url": "https://gongdian.top/tvbox/ok.json  ","name": "🐏OKPG┃OK"},
+{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://tv.devopser.org/p/jsm.json ","name": "🌳常┃PG备"},
+{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt ","name": "🌳常┃zytcodeberg"},
+{"url": "https://gitlab.com/jixiejishu/zyt/-/raw/main/api.txt ","name": "🌳常┃zytgitlab"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.txt ","name": "🌳常┃zytjsdelivr"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.txt ","name": "🌳常┃zyt刘加速"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zytghproxy"},
+{"url": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zytghp.ci"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt欧歌加速"},
+{"url": "https://d.kstore.dev/download/7731/zyt/api.txt ","name": "🌳常┃zyt凯速"},
+{"url": "https://gitee.com/jixiejishu/zyt/raw/main/api.txt ","name": "🌳常┃zytgitee"}
+
+]}
