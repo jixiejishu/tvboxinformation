@@ -83,6 +83,10 @@ https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 http://www.fish2018.us.kg/p/jsm.json 
  🌳常┃PG备:
 http://tv.devopser.org/p/jsm.json 
+🌳常┃真心:
+http://www.fish2018.us.kg/z/FongMi.json
+🌳常┃真心备:
+http://tv.devopser.org/z/FongMi.json
  🌳常┃zytcodeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt 
  🌳常┃zytgitlab:
