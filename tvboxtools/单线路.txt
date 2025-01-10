@@ -1,0 +1,344 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
+//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
+
+ //奇奇+自制:
+ 
+ //http://qiqiv.cn/zy.php :
+ 
+ 🌳常┃肥猫宝贝:
+http://肥猫.com 
+ 🌳常┃肥猫/备1:
+https://肥猫.com 
+ 🌳常┃肥猫/备2:
+http://ceshi.肥猫.com/PandaQ 
+ 🌳常┃饭太硬1:
+http://www.饭太硬.com/tv 
+ 🌳常┃饭太硬2:
+http://www.饭太硬.net/tv 
+ 🌳常┃饭太硬备0:
+http://www.饭太硬.xyz/tv 
+ 🌳常┃饭太硬备1:
+http://fty.xxooo.cf/tv 
+ 🌳常┃饭太硬备2:
+http://fty.888484.xyz/tv 
+ 🌳常┃饭太硬备3:
+http://fty.333232.xyz/tv 
+ 🌳常┃吃猫的鱼:
+https://7213.kstore.vip/吃猫的鱼 
+ 🌳常┃小米线路:
+http://www.mpanso.com/小米/DEMO.json 
+ //非OK影视需要输入激活码🌳常┃ok线路:
+http://ok321.top/ok 
+ //非OK影视需要输入激活码🌳常┃ok内部:
+http://ok321.top/tv 
+ 🌳常┃王小二:
+http://tvbox.王二小放牛娃.top 
+ 🌳常┃摸鱼:
+http://我不是.摸鱼儿.com 
+ 🌳常┃摸鱼备:
+http://我不是.摸鱼儿.xyz 
+ 🌳常┃开心:
+http://rihou.cc:55/天天开心 
+ 🌳常┃开心/备:
+http://kxrj.site:55/天天开心 
+ 🌳常┃开心/电信:
+http://ttkx.cc:55/天天开心 
+ 🌳常┃云星日记:
+http://itvbox.cc/云星日记 
+ 🌳常┃欧歌:
+https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=wj欧歌jw 
+ 🌳常┃Ray/骚零/俊于:
+https://100km.top/0 
+ //在线停用进提供本地包 QQ频道异次元空间🌳常┃潇洒:
+https://9877.kstore.space/FourD/api.json 
+ //停用🌳常┃潇洒/欧歌借用:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json 
+ 🌳常┃南风/jsdelivr:
+https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json 
+ 🌳常┃南风/刘老备:
+https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json 
+ 🌳常┃南风/欧歌:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json 
+ 🌳常┃香雅情/jsdelivr:
+https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json 
+ 🌳常┃香雅情:
+https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
+ 🌳常┃香雅情/欧歌:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
+ 🌳常┃刘老备/jsdelivr:
+https://raw.kkgithub.com/liu673cn/box/main/m.json 
+ 🌳常┃刘老备:
+https://raw.kkgithub.com/liu673cn/box/main/m.json 
+ 🌳常┃刘老备/欧歌:
+https://raw.liucn.cc/box/m.json 
+ 🌳常┃高天流云//jsdelivr:
+https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@main/js.json 
+ 🌳常┃高天流云/刘老备:
+https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json 
+ 🌳常┃高天流云/欧歌:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json 
+ 🌳常┃奇奇短剧:
+http://box.ufuzi.com/tv/qq/短剧频道/api.json 
+ 🌳常┃奇奇儿童:
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
+ 🌳常┃PG:
+http://www.fish2018.us.kg/p/jsm.json 
+ 🌳常┃PG备:
+http://tv.devopser.org/p/jsm.json 
+ 🌳常┃真心:
+http://www.fish2018.us.kg/z/FongMi.json 
+ 🌳常┃真心备:
+http://tv.devopser.org/z/FongMi.json 
+ 🌳常┃zytzx饭太硬codeberg:
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga 
+ 🌳常┃zytzx饭太硬gitlab:
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga 
+ 🌳常┃zytzx饭太硬github:
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga 
+ 🌳常┃zytzx饭太硬欧歌加速:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga 
+ 🌳常┃zytzx饭太硬刘加速:
+https://raw.kkgithub.com/jixiejishu/zytzx/main/fty.pnga 
+ 🌳常┃zytzx肥猫codeberg:
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga 
+ 🌳常┃zytzx肥猫gitlab:
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga 
+ 🌳常┃zytzx肥猫github:
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga 
+ 🌳常┃zytzx肥猫欧歌加速:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga 
+ 🌳常┃zytzx肥猫刘加速:
+https://raw.kkgithub.com/jixiejishu/zytzx/main/fm.pnga 
+ 🌳常┃zytzx欧歌codeberg:
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga 
+ 🌳常┃zytzx欧歌gitlab:
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga 
+ 🌳常┃zytzx欧歌github:
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga 
+ 🌳常┃zytzx欧歌欧歌加速:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga 
+ 🌳常┃zytzx欧歌刘加速:
+https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga 
+ 
+ 
+ 
+ 
+ 
+ 
+ //TVbox助手提供（目前已经没有了）:
+ 
+ //https://lige.chat/:
+ 
+ //失效🚀T┃网盘:
+http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json 
+ 🚀T┃One:
+https://raw.kkgithub.com/leevi0709/one/main/jsm.json 
+ 🚀T┃One/欧歌借用:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json 
+
+ //接口格式修改🚀T┃D老魔改:
+https://download.kstore.space/download/2883/nzk/nzk0722.json 
+ 🚀T┃D老魔改:
+https://d.kstore.dev/download/2883/nzk/nzk0722.json 
+ //失效🐹T┃荷城/日后:
+http://rihou.cc:88/荷城茶秀 
+ //失效🐹T┃荷城/日后/欧歌:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json 
+ //失效🐹T┃春盈天下:
+https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master 
+ 🐹T┃星辰/玉:
+https://fmbox.cc 
+ 🐹T┃星辰/玉备:
+http://47.99.102.252/xc.json 
+ 🐹T┃喵影视:
+http://meowtv.cn/tv 
+ 🐹T┃青龙1:
+https://gitee.com/yiwu369/6758/raw/master/1.json 
+ 🐹T┃青龙2:
+https://gitee.com/yiwu369/6758/raw/master/青龙/1.json 
+ //codeberg封号不再维护🐹T┃青龙codeberg:
+https://codeberg.org/33137585/6758/raw/master/1.json 
+ 🐹T┃天微/恒星:
+https://11256.kstore.space/TWYS/api.json 
+ 🐹T┃天微/恒星:
+http://ygbhbox.3vfree.club/pg/jsm.json 
+ 🐹T┃月光/宝盒/欧歌:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/max.json 
+ //经常换线路失效🐹T┃吾爱:
+http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0 
+ 💎T┃不良帅:
+https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json 
+ //失效💎T┃T4:
+https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json 
+ 💎T┃龙伊:
+https://龙伊.top 
+ 💎T┃业余:
+https://yydf.540734621.xyz/QQ/yydf2024.json 
+ //接口失效 收费💎T┃无意云（同D佬，无法调入）:
+http://www.wya6.cn/tv/yc.json 
+ //项目不更新失效💎T┃二哈:
+https://raw.kkgithub.com/2hacc/TVBox/main/tvbox.json 
+ 💎T┃巧技:
+http://cdn.qiaoji8.com/tvbox.json 
+ 💎T┃菜妮丝:
+https://tv.菜妮丝.top 
+ 💎T┃小马:
+https://szyyds.cn/tv/x.json 
+ //大部内容为空💎T┃东辰1:
+https://gitee.com/dongchenzx/liu/raw/master/hb.json 
+ //空线路💎T┃东辰2:
+https://gitee.com/dongchenzx/fs/raw/master/ha.json 
+ 
+ 
+ 
+ 
+ 
+ 
+ //酷玩盒子接口:
+ 
+ //https://juwanhezi.com/other/jsonlist:
+ 
+ 🏄️盒┃小盒:
+http://xhztv.top/xhz 
+ 🏄️盒┃小盒4K:
+http://xhztv.top/4k.json 
+ //失效🏄️盒┃毒盒：
+https://毒盒.com/tv 
+ //失效🏄️盒┃PG：
+https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json 
+ 🏄️盒┃动漫城 ：
+https://www.yingm.cc/dm/dm.json 
+ //接口失效🏄️盒┃dxawi ：
+https://dxawi.github.io/0/0.json 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ //网络搜集:
+ 
+ //:
+ 
+ ☂️搜┃SoEasy导航:
+https://www.soeasy.love/tvbox/config.json 
+ //空线路☂️搜┃SoEasygitee:
+https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json 
+ ☂️搜┃盒子迷:
+https://盒子迷.top/禁止贩卖  
+ //站点内容为空 失效☂️搜┃运输车:
+https://weixine.net/ysc.json 
+ ☂️搜┃无界专业版:
+https://www.xn--rgv465a.top/无界线路Pro版 
+ ☂️搜┃无界精简版:
+https://www.xn--rgv465a.top/无界线路Lite版 
+ ☂️搜┃无界儿童版:
+https://www.xn--rgv465a.top/无界线路Kids版 
+ ☂️搜┃恒星育华学堂:
+http://yuhuavip1.top/育华学堂/斧头帮.php 
+ ☂️搜┃猫TV:
+http://www.meowtv.top 
+ ☂️搜┃蜗牛影视:
+https://tv.蜗牛.top/svip 
+ 
+ 
+ 
+ 
+ 
+ 
+ //鸭先知:
+ 
+ //https://www.yxzhi.com/:
+ 
+ 🍂鸭┃俊哥/俊佬:
+http://home.jundie.top:81/top98.json 
+ 🍂鸭┃pandown:
+http://pandown.pro/tvbox/tvbox.json 
+ //空线路🍂鸭┃TV网:
+https://zzzzz.tv/tv/ys.json 
+ //空线路🍂鸭┃TV网VIP:
+https://zzzzz.tv/tv/svip.json 
+ 
+ 
+ 
+ 
+ 
+ 
+ //OKPG版专用接口:
+ 
+ //https://gongdian.top/app:
+ 
+ 🐏OKPG专用┃饭太硬:
+https://gongdian.top/tvbox/fan.json  
+ 🐏OKPG专用┃潇洒:
+https://gongdian.top/tvbox/xiaosa.json 
+ 🐏OKPG专用┃王小二:
+https://gongdian.top/tvbox/niu.json 
+ 🐏OKPG专用┃OK:
+https://gongdian.top/tvbox/ok.json 
+
+
+
+
+
+//欧歌的线路新版没有直接引用其它线路二是选用了几个线路。把配置文件内引用的文件变成在线版，包含jar.其中PG是原版
+//大部分功能可以正常使用，部分功能不正常比如饭太硬的牛播一无法使用，有些接口实际上已经停更，比如荷茶秀秀
+
+ //欧歌主线路:
+ 
+ //http://qiqiv.cn/zy.php :
+ 
+ 📢wj欧歌jw家庭线路1📢:
+https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=wj欧歌jw 
+ 💚wj欧歌jw云盘线路2💚:
+https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=wj欧歌jw 
+ 💖wj欧歌jw学习线路3💖:
+https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=wj欧歌jw 
+ 👇下面wj欧歌jw收集网络线路👇:
+https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&321&b=wj欧歌jw 
+ 🌟1#饭太硬🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/1.php?ou=http://www.饭太硬.com/tv/ 
+ 🌟2#不良帅🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/2.php?ou=https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json 
+ 🌟3#盒子迷🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/3.php?ou=https://盒子迷.top/禁止贩卖 
+ 🌟4#肥猫🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/4.php?ou=http://ceshi.xn--z7x900a.com/PandaQ 
+ 🌟5#PG🌟:
+https://raw.gitmirror.com/ouhaibo1980/tvbox/master/pg/jsm.json 
+ 🌟6#零🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/6.php?ou=https://100km.top/0 
+ 🌟7#小米🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/7.php?ou=https://mpanso.me/DEMO.json 
+ 🌟8#王小二🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/8.php?ou=http://tvbox.xn--4kq62z5rby2qupq9ub.top 
+ 🌟9#猫TV🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/9.php?ou=http://www.meowtv.top 
+ 🌟10#蜗牛影视🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/10.php?ou=https://tv.蜗牛.top/svip 
+ 🌟11#摸鱼🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/11.php?ou=http://我不是.摸鱼儿.com 
+ 🌟12#刘老备🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/12.php?ou=https://raw.liucn.cc/box/m.json 
+ 🌟13#奇奇短剧🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/13.php?ou=http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json 
+ 🌟14#湘雅情🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/14.php?ou=https://mirror.ghproxy.com/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 
+ 🌟15#业余打发🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/15.php?ou=https://yydf.540734621.xyz/QQ/yydf2024.json 
+ 🌟16#菜妮斯🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/16.php?ou=https://tv.xn--yhqu5zs87a.top 
+ 🌟17#巧技🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/17.php?ou=http://cdn.qiaoji8.com/tvbox.json 
+ 🌟18#荷茶秀秀（停更）🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/18.php?ou=https://mirror.ghproxy.com/raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json 
+ 🌟19#星辰🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/19.php?ou=https://fmbox.cc 
+ 🌟20#南风🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/20.php?ou=https://mirror.ghproxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json 
+ 🌟21#同欧歌家庭🌟:
+http://11.yy.xn--dkw.xn--6qq986b3xl/1/21.php?ou=https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/333.php?ou=公众号欧歌app&mz=index&jar=index 
+ 📢tv收集不分排名📢:
+https://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=tv 
