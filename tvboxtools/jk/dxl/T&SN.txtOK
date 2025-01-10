@@ -57,8 +57,8 @@
 {"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
 {"url": "https://7213.kstore.vip/吃猫的鱼 ","name": "🌳常┃吃猫的鱼"},
 {"url": "http://www.mpanso.com/小米/DEMO.json ","name": "🌳常┃小米线路"},
-{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
-{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
+//非OK影视需要输入激活码{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
+//非OK影视需要输入激活码{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
 {"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
@@ -88,15 +88,21 @@
 {"url": "http://tv.devopser.org/p/jsm.json ","name": "🌳常┃PG备"},
 {"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
 {"url": "http://tv.devopser.org/z/FongMi.json ","name": "🌳常┃真心备"},
-{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt ","name": "🌳常┃zytcodeberg"},
-{"url": "https://gitlab.com/jixiejishu/zyt/-/raw/main/api.txt ","name": "🌳常┃zytgitlab"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.txt ","name": "🌳常┃zytjsdelivr"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.txt ","name": "🌳常┃zyt刘加速"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zytghproxy"},
-{"url": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zytghp.ci"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt ","name": "🌳常┃zyt欧歌加速"},
-{"url": "https://d.kstore.dev/download/7731/zyt/api.txt ","name": "🌳常┃zyt凯速"},
-{"url": "https://gitee.com/jixiejishu/zyt/raw/main/api.txt ","name": "🌳常┃zytgitee"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga ","name": "🌳常┃zytzx饭太硬codeberg"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga ","name": "🌳常┃zytzx饭太硬gitlab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga ","name": "🌳常┃zytzx饭太硬github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga ","name": "🌳常┃zytzx饭太硬欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fty.pnga ","name": "🌳常┃zytzx饭太硬刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga ","name": "🌳常┃zytzx肥猫codeberg"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga ","name": "🌳常┃zytzx肥猫gitlab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga ","name": "🌳常┃zytzx肥猫github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga ","name": "🌳常┃zytzx肥猫欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fm.pnga ","name": "🌳常┃zytzx肥猫刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga ","name": "🌳常┃zytzx欧歌codeberg"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga ","name": "🌳常┃zytzx欧歌gitlab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga ","name": "🌳常┃zytzx欧歌github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga ","name": "🌳常┃zytzx欧歌欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga ","name": "🌳常┃zytzx欧歌刘加速"},
 
 
 
@@ -181,3 +187,4 @@
 
 
 ]}
+
