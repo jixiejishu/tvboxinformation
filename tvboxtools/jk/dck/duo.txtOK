@@ -1,6 +1,7 @@
 //来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
 //非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
 { "storeHouse": [
+{"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
 {"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txtOK"},
 {"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txtOK"},
 {"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txtOK"},
@@ -10,8 +11,15 @@
 {"sourceName": "🔩常用ghproxy🔩","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txtOK"},
 {"sourceName": "🔩常用凯速备🔩","sourceUrl": "https://d.kstore.dev/download/7731/tvbox/tvboxtools/jk/dxl/T%EF%B9%A0S.txtOK"},
 {"sourceName": "🔩常用gitee🔩","sourceUrl": "https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/T&S.txtOK"},
-{"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
-{"sourceName": "☘️潇洒单仓☘️","sourceUrl": "https://9877.kstore.space/FourDS/api.json "},
+{"sourceName": "☘️欧歌主仓带注释codeberg☘️","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释gitlab☘️","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释jsdelivr☘️","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释刘加速☘️","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释欧歌加速☘️","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释ghp☘️","sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释ghproxy☘️","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释凯速☘️","sourceUrl": "https://d.kstore.dev/download/7731/tvbox/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释gitee☘️","sourceUrl": "https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/ogmain.txt"},
 {"sourceName": "🌹wj欧歌jw主仓库🌹","sourceUrl": "https://xn--wjjw-rp5imh.v.nxog.top/nxog/ou1.php?b=wj欧歌jw"},
 {"sourceName": "🌹wj欧歌jw备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
 {"sourceName": "🌷wj欧歌jw备2仓库🌷","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
