@@ -1,5 +1,3 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
-//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
 {"urls": [
 //奇奇+自制
 //http://qiqiv.cn/zy.php 
@@ -45,21 +43,38 @@
 {"url": "http://tv.devopser.org/p/jsm.json ","name": "🌳常┃PG备"},
 {"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
 {"url": "http://tv.devopser.org/z/FongMi.json ","name": "🌳常┃真心备"},
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga ","name": "🌳常┃zytzx饭太硬codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga ","name": "🌳常┃zytzx饭太硬gitlab"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga ","name": "🌳常┃zytzx饭太硬github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga ","name": "🌳常┃zytzx饭太硬欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fty.pnga ","name": "🌳常┃zytzx饭太硬刘加速"},
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga ","name": "🌳常┃zytzx肥猫codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga ","name": "🌳常┃zytzx肥猫gitlab"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga ","name": "🌳常┃zytzx肥猫github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga ","name": "🌳常┃zytzx肥猫欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fm.pnga ","name": "🌳常┃zytzx肥猫刘加速"},
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga ","name": "🌳常┃zytzx欧歌codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga ","name": "🌳常┃zytzx欧歌gitlab"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga ","name": "🌳常┃zytzx欧歌github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga ","name": "🌳常┃zytzx欧歌欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga ","name": "🌳常┃zytzx欧歌刘加速"},
+
+
+
+//zyt 目前默认是欧歌
+//通过更改后缀切换不同的加速平台：
+//.pnga=https://ghgo.xyz
+//后面加1
+//.pnga1=https://mirror.ghproxy.com/
+//后面加2
+//.pnga2=借用欧歌加速
+//后面加3
+//.pnga3=借用刘老备加速
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga2 ","name": "📺zyt┃饭太硬c"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga2 ","name": "📺zyt┃饭太硬lab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2 ","name": "📺zyt┃饭太硬hub"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2 ","name": "📺zyt┃饭太硬欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fty.pnga2 ","name": "📺zyt┃饭太硬刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga2 ","name": "📺zyt┃肥猫codeberg"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga2 ","name": "📺zyt┃肥猫gitlab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2 ","name": "📺zyt┃肥猫github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2 ","name": "📺zyt┃肥猫欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/fm.pnga2 ","name": "📺zyt┃肥猫刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga2 ","name": "📺zyt┃欧歌codeberg"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga2 ","name": "📺zyt┃欧歌gitlab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2 ","name": "📺zyt┃欧歌github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2 ","name": "📺zyt┃欧歌欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga2 ","name": "📺zyt┃欧歌刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga2 ","name": "📺zyt┃潇洒c"},
+{"url": "https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga2 ","name": "📺zyt┃潇洒ab"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 ","name": "📺zyt┃潇洒hub"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 ","name": "📺zyt┃潇洒og"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 ","name": "📺zyt┃潇洒l"},
 
 
 
@@ -144,4 +159,3 @@
 
 
 ]}
-
