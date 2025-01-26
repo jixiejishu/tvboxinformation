@@ -39,10 +39,10 @@
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
-{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
-{"url": "http://tv.devopser.org/p/jsm.json ","name": "🌳常┃PG备"},
+//直播内含有18+和原版PG不同{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
+//直播内含有18+和原版PG不同{"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
 {"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
-{"url": "http://tv.devopser.org/z/FongMi.json ","name": "🌳常┃真心备"},
+{"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
 
 
 
