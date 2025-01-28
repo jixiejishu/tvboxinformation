@@ -57,7 +57,7 @@
 {"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
 {"url": "https://7213.kstore.vip/吃猫的鱼 ","name": "🌳常┃吃猫的鱼"},
 {"url": "http://www.mpanso.com/小米/DEMO.json ","name": "🌳常┃小米线路"},
-//非OK影视需要输入激活码{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
+//需要输入激活码（包括OK影视）"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
 //非OK影视需要输入激活码{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
 {"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
@@ -76,10 +76,10 @@
 {"url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json ","name": "🌳常┃香雅情/jsdelivr"},
 {"url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json ","name": "🌳常┃香雅情"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json ","name": "🌳常┃香雅情/欧歌"},
-{"url": "https://raw.kkgithub.com/liu673cn/box/main/m.json ","name": "🌳常┃刘老备/jsdelivr"},
+{"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json ","name": "🌳常┃刘老备/jsdelivr"},
 {"url": "https://raw.kkgithub.com/liu673cn/box/main/m.json ","name": "🌳常┃刘老备"},
 {"url": "https://raw.liucn.cc/box/m.json ","name": "🌳常┃刘老备/欧歌"},
-{"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@main/js.json ","name": "🌳常┃高天流云//jsdelivr"},
+{"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@main/js.json ","name": "🌳常┃高天流云/jsdelivr"},
 {"url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/刘老备"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
@@ -88,7 +88,6 @@
 //直播内含有18+和原版PG不同{"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
 {"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
 {"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
-
 
 
 //zyt 目前默认是欧歌
