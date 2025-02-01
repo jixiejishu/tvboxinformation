@@ -142,16 +142,17 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/re
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2 
  📺zyt┃欧歌刘加速:
 https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga2 
- 📺zyt┃潇洒c:
+ 📺zyt┃潇洒codeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga2 
- 📺zyt┃潇洒ab:
+ 📺zyt┃潇洒gitlab:
 https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga2 
- 📺zyt┃潇洒hub:
+ 📺zyt┃潇洒github:
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 
- 📺zyt┃潇洒og:
+ 📺zyt┃潇洒欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 
- 📺zyt┃潇洒l:
+ 📺zyt┃潇洒刘加速:
 https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 
+
  
  
  
