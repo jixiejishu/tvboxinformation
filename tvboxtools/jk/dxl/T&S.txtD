@@ -5,9 +5,6 @@
 //codeberg封号作者停止维护{"url": "https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json ","name": "🐯🐯白虎"},
 //道长 只支持影视（fongmi）和Easybox：
 {"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "👩┃道长影视和Easybox"},
-//直播内含有18+和原版PG不同https://github.com/fish2018/PG
-{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "👩┃PG"},
-{"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "👩┃PG备用"},
 //出自 https://github.com/8qNvKr/188 （单线路）：
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥"},
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥备用"},
