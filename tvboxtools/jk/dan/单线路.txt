@@ -82,8 +82,10 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/maste
 http://box.ufuzi.com/tv/qq/短剧频道/api.json 
  🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer 
-
-
+ 🌳常┃PG:
+http://www.fish2018.us.kg/p/jsm.json 
+ 🌳常┃PG备:
+https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json 
  🌳常┃真心:
 http://www.fish2018.us.kg/z/FongMi.json 
  🌳常┃真心备:
