@@ -1,3 +1,5 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
+//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
 {"urls": [
 //奇奇+自制
 //http://qiqiv.cn/zy.php 
@@ -76,6 +78,12 @@
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 ","name": "📺zyt┃潇洒欧歌加速"},
 {"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 ","name": "📺zyt┃潇洒刘加速"},
 
+
+
+//潇洒本地包在线更新
+//QQ频道异次元空间
+{"url": "clan://localhost/TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒通用"},
+{"url": "file://TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒影视"},
 
 
 
