@@ -154,6 +154,20 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 
  📺zyt┃潇洒刘加速:
 https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 
+ 
+ 
+ 
+ 
+ 
+ 
+ //潇洒本地包在线更新:
+ 
+ //QQ频道异次元空间:
+ 
+ 💾本地包┃潇洒通用:
+clan://localhost/TVBoxOSC/tvbox/api.json 
+ 💾本地包┃潇洒影视:
+file://TVBoxOSC/tvbox/api.json 
 
  
  
