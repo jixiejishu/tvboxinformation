@@ -82,9 +82,14 @@
 
 //潇洒本地包在线更新
 //QQ频道异次元空间
-{"url": "clan://localhost/TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒通用"},
-{"url": "file://TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒影视"},
-
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒通用本地🌟"
+    },
+    {
+      "url": "file://TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒蜂蜜本地🌟"
+    },
 
 
 //TVbox助手提供（目前已经没有了）

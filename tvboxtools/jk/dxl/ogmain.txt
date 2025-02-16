@@ -3,10 +3,10 @@
 {"urls": [
 //欧歌主线路
 //http://qiqiv.cn/zy.php 
-{"url": "https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=wj欧歌jw ","name": "📢tv家庭线路1📢"},
-{"url": "https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=wj欧歌jw ","name": "💚tv云盘线路2💚"},
-{"url": "https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=wj欧歌jw ","name": "💖tv学习线路3💖"},
-{"url": "https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&321&b=wj欧歌jw ","name": "👇下面tv收集网络线路👇"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv ","name": "📢tv家庭线路1📢"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=tv ","name": "💚tv云盘线路2💚"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=tv ","name": "💖tv学习线路3💖"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&321&b=tv ","name": "👇下面tv收集网络线路👇"},
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/1.php?ou=http://www.饭太硬.com/tv/ ","name": "🌟1#饭太硬🌟"},
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/2.php?ou=https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json ","name": "🌟2#不良帅🌟"},
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/3.php?ou=https://盒子迷.top/禁止贩卖 ","name": "🌟3#盒子迷🌟"},
@@ -28,7 +28,10 @@
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/19.php?ou=https://fmbox.cc ","name": "🌟19#星辰🌟"},
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/20.php?ou=https://mirror.ghproxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json ","name": "🌟20#南风🌟"},
 {"url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/21.php?ou=https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/333.php?ou=公众号欧歌app&mz=index&jar=index ","name": "🌟21#同欧歌家庭🌟"},
-{"url": "clan://localhost/TVBoxOSC/tvbox/api.json ","name": "🌟潇洒本地包专用🌟"},
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒本地包专用🌟"
+    },
 {"url": "https://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=tv ","name": "📢tv收集不分排名📢"}
 
 
