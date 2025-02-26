@@ -81,7 +81,6 @@
 
 
 
-
 //潇洒本地包在线更新
 //QQ频道异次元空间
     {
@@ -94,13 +93,11 @@
     },
 
 
-
 //TVbox助手提供（目前已经没有了）
 //https://lige.chat/
 //失效{"url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json ","name": "🚀T┃网盘"},
 {"url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One/欧歌借用"},
-//18+{"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "🚀T┃道长"},
 //接口格式修改{"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json ","name": "🚀T┃D老魔改"},
 {"url": "https://d.kstore.dev/download/2883/nzk/nzk0722.json ","name": "🚀T┃D老魔改"},
 //失效{"url": "http://rihou.cc:88/荷城茶秀 ","name": "🐹T┃荷城/日后"},
@@ -138,7 +135,6 @@
 //失效{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json ","name": "🏄️盒┃PG"},
 {"url": "https://www.yingm.cc/dm/dm.json ","name": "🏄️盒┃动漫城 "},
 //接口失效{"url": "https://dxawi.github.io/0/0.json ","name": "🏄️盒┃dxawi "},
-//伦理片{"url": "https://api.hgyx.vip/hgyx.json ","name": "🏄️盒┃HG线"},
 
 
 
