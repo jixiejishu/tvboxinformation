@@ -20,7 +20,9 @@
 {"sourceName": "🌹tv主仓库🌹","sourceUrl": "https://tv.nxog.top/nxog/ou1.php?b=tv"},
 {"sourceName": "🌹tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷tv备2仓库🌷","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=tv"},
-{"sourceName": "☘️tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "}
+{"sourceName": "☘️tv本地肋手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
+{"sourceName": "🌟潇洒单仓本地🌟","sourceUrl": "clan://localhost/TVBoxOSC/本地仓/本地仓.txt"},
+{"sourceName": "🌟潇洒影视单仓本地🌟","sourceUrl": "file://TVBoxOSC/本地仓/影视.txt"}
 
 
 ]}
