@@ -1,0 +1,49 @@
+{
+    "urls": [
+//潇洒本地
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒通用本地🌟"
+    },
+    {
+      "url": "file://TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒蜂蜜本地🌟"
+    },
+//奇奇本地
+        {
+            "url": "clan://localhost/tvboxqq/本地仓.txt",
+            "name": "奇奇本地"
+        },
+        {
+            "url": "file://tvboxqq/fm.txt",
+            "name": "奇奇本地影视"
+        },
+//无忧本地
+        {
+            "url": "clan://localhost/TVBox/本地仓库.json",
+            "name": "无忧本地"
+        },
+        {
+            "url": "clan://localhost/TVBox/lib/zx.json",
+            "name": "无忧本地在线"
+        },
+        {
+            "url": "file://TVBox/本地仓库.json",
+            "name": "无忧本地影视"
+        },
+        {
+            "url": "file://TVBox/lib/zx.json",
+            "name": "无忧本地在线影视"
+        },
+        {
+            "url": "clan://localhost/TVBoxOSC/本地仓/本地仓.txt",
+            "name": "🌟潇洒单仓本地🌟"
+        },
+        {
+            "url": "file://TVBoxOSC/本地仓/影视.txt",
+            "name": "🌟潇洒影视单仓本地🌟"
+        }
+
+
+}
+
