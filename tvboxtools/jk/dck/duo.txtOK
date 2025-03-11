@@ -27,6 +27,7 @@
 {"sourceName": "⭐云星本地在线⭐","sourceUrl": "clan://localhost/TVBox/lib/zx.json"},
 {"sourceName": "⭐云星本地影视⭐","sourceUrl": "file://TVBox/本地仓库.json"},
 {"sourceName": "⭐云星本地在线影视⭐","sourceUrl": "file://TVBox/zx.json"},
+{"sourceName": "📽️潇洒在线单仓📽️","sourceUrl": "https://9877.kstore.space/AnotherDS/api.json"},
 {"sourceName": "🌟潇洒单仓本地🌟","sourceUrl": "clan://localhost/TVBoxOSC/本地仓/本地仓.txt"},
 {"sourceName": "🌟潇洒影视单仓本地🌟","sourceUrl": "file://TVBoxOSC/本地仓/影视.txt"}
 
