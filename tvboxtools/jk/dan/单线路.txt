@@ -35,9 +35,9 @@ http://ok321.top/ok
 http://ok321.top/tv
 🌳常┃王小二:
 http://tvbox.王二小放牛娃.top
-//作者喝茶接口关闭🌳常┃摸鱼:
+🌳常┃摸鱼:
 http://我不是.摸鱼儿.com
-//作者喝茶接口关闭🌳常┃摸鱼备:
+🌳常┃摸鱼备:
 http://我不是.摸鱼儿.xyz
 🌳常┃开心:
 http://rihou.cc:55/天天开心
@@ -84,13 +84,25 @@ http://box.ufuzi.com/tv/qq/短剧频道/api.json
 🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 🌳常┃PG:
-http://www.fish2018.us.kg/p/jsm.json
+http://www.fish2018.ip-ddns.com/p/jsm.json
+🌳常┃PG2:
+http://www2.fish2018.ip-ddns.com/p/jsm.json
+🌳常┃PG3:
+http://www3.fish2018.ip-ddns.com/p/jsm.json
 🌳常┃PG备:
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 🌳常┃真心:
-http://www.fish2018.us.kg/z/FongMi.json
+http://www.fish2018.ip-ddns.com/z/FongMi.json
+🌳常┃真心2:
+http://www2.fish2018.ip-ddns.com/z/FongMi.json
+🌳常┃真心3:
+http://www3.fish2018.ip-ddns.com/z/FongMi.json
 🌳常┃真心备:
 https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
+🌳常┃晴天:
+http://itv.qtsh.top
+🌳常┃晴天PG:
+http://pg.qtsh.top
 
 
 
@@ -269,7 +281,7 @@ https://dxawi.github.io/0/0.json
 
 //:
 
-☂️搜┃SoEasy导航:
+//空线路失效☂️搜┃SoEasy导航:
 https://www.soeasy.love/tvbox/config.json
 //空线路☂️搜┃SoEasygitee:
 https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json
@@ -325,6 +337,7 @@ https://gongdian.top/tvbox/xiaosa.json
 https://gongdian.top/tvbox/niu.json
 🐏OKPG专用┃OK:
 https://gongdian.top/tvbox/ok.json
+
 
 
 
