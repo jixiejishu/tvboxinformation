@@ -61,8 +61,8 @@
 //需要输入激活码(包括OK影视）{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
 //非OK影视需要输入激活码{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
-//作者喝茶接口关闭{"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
-//作者喝茶接口关闭{"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
+{"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
+{"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
 {"url": "http://rihou.cc:55/天天开心 ","name": "🌳常┃开心"},
 {"url": "http://kxrj.site:55/天天开心 ","name": "🌳常┃开心/备"},
 {"url": "http://ttkx.cc:55/天天开心 ","name": "🌳常┃开心/电信"},
@@ -85,10 +85,16 @@
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
-{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://www2.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG2"},
+{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG3"},
 {"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
-{"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
+{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心"},
+{"url": "http://www2.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心2"},
+{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心3"},
 {"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
+{"url": "http://itv.qtsh.top ","name": "🌳常┃晴天"},
+{"url": "http://pg.qtsh.top ","name": "🌳常┃晴天PG"},
 
 
 
@@ -126,14 +132,9 @@
 
 //潇洒本地包在线更新
 //QQ频道异次元空间
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒通用本地🌟"
-    },
-    {
-      "url": "file://TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒蜂蜜本地🌟"
-    },
+{"url": "clan://localhost/TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒通用"},
+{"url": "file://TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒影视"},
+
 
 
 //TVbox助手提供（目前已经没有了）
@@ -183,7 +184,7 @@
 
 //网络搜集
 //
-{"url": "https://www.soeasy.love/tvbox/config.json ","name": "☂️搜┃SoEasy导航"},
+//空线路失效{"url": "https://www.soeasy.love/tvbox/config.json ","name": "☂️搜┃SoEasy导航"},
 //空线路{"url": "https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json ","name": "☂️搜┃SoEasygitee"},
 {"url": "https://盒子迷.top/禁止贩卖  ","name": "☂️搜┃盒子迷"},
 //站点内容为空 失效{"url": "https://weixine.net/ysc.json ","name": "☂️搜┃运输车"},
@@ -215,4 +216,3 @@
 
 
 ]}
-

@@ -5,14 +5,19 @@
 {"url": "https://gongdian.top/tvbox/xiaosa.json  ","name": "🐏OKPG┃潇洒哥"},
 {"url": "https://gongdian.top/tvbox/niu.json  ","name": "🐏OKPG┃王小二放牛"},
 {"url": "https://gongdian.top/tvbox/ok.json  ","name": "🐏OKPG┃OK"},
-{"url": "http://www.fish2018.us.kg/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG"},
+{"url": "http://www2.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG2"},
+{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG3"},
 {"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
-{"url": "http://www.fish2018.us.kg/z/FongMi.json ","name": "🌳常┃真心"},
+{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心"},
+{"url": "http://www2.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心2"},
+{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心3"},
 {"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
+{"url": "http://itv.qtsh.top ","name": "🌳常┃晴天"},
+{"url": "http://pg.qtsh.top ","name": "🌳常┃晴天PG"},
 {"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json ","name": "🌳常┃南风/jsdelivr"},
 {"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json ","name": "🌳常┃南风/刘老备"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json ","name": "🌳常┃南风/欧歌"},
-{"url": "https://9877.kstore.space/AnotherD/api.json ","name": "🌳常┃潇洒在线"},
 //zyt 目前默认是欧歌
 //通过更改后缀切换不同的加速平台：
 //.pnga=https://ghgo.xyz
