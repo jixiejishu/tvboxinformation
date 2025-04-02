@@ -33,6 +33,11 @@ http://www.mpanso.com/小米/DEMO.json
 http://ok321.top/ok
 //非OK影视需要输入激活码🌳常┃ok内部:
 http://ok321.top/tv
+//需要输入激活码(包括OK影视）🌳常┃ok线路凯速:
+https://10936.kstore.space/ok
+//非OK影视需要输入激活码🌳常┃ok内部凯速:
+https://10936.kstore.space/tv
+
 🌳常┃王小二:
 http://tvbox.王二小放牛娃.top
 🌳常┃摸鱼:
