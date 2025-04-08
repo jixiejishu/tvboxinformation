@@ -26,7 +26,10 @@
 {"url": "http://kxrj.site:55/天天开心 ","name": "🌳常┃开心/备"},
 {"url": "http://ttkx.cc:55/天天开心 ","name": "🌳常┃开心/电信"},
 {"url": "http://itvbox.cc/云星日记 ","name": "🌳常┃云星日记"},
-{"url": "https://xn--wjjw-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=wj欧歌jw ","name": "🌳常┃欧歌"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv ","name": "🌳常┃欧歌"},
+{"url": "https://123.yy.nxog.top/1/21.php?ou=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m/333.php?ou=公众号欧歌app&mz=index&jar=index&b=杰歌 ","name": "🌳常┃欧歌备"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=tv ","name": "🌳常┃欧歌云盘1"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=tv ","name": "🌳常┃欧歌云盘2"},
 {"url": "https://100km.top/0 ","name": "🌳常┃Ray/骚零/俊于"},
 //停用私人网盘流量有限{"url": "https://9877.kstore.space/AnotherD/api.json ","name": "🌳常┃潇洒在线"},
 //停用{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json ","name": "🌳常┃潇洒/欧歌借用"},
@@ -91,9 +94,14 @@
 
 //潇洒本地包在线更新
 //QQ频道异次元空间
-{"url": "clan://localhost/TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒通用"},
-{"url": "file://TVBoxOSC/tvbox/api.json ","name": "💾本地包┃潇洒影视"},
-
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒通用本地🌟"
+    },
+    {
+      "url": "file://TVBoxOSC/tvbox/api.json",
+      "name": "🌟潇洒蜂蜜本地🌟"
+    },
 
 
 //TVbox助手提供（目前已经没有了）
