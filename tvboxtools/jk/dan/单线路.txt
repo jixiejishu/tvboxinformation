@@ -5,14 +5,6 @@
 
 //http://qiqiv.cn/zy.php :
 
-🌳常┃肥猫宝贝:
-http://肥猫.com
-🌳常┃肥猫/备1:
-https://肥猫.com
-🌳常┃肥猫/备2:
-http://ceshi.肥猫.com/PandaQ
-🌳常┃肥猫/凯速:
-https://6296.kstore.vip/facat.json
 🌳常┃饭太硬1:
 http://www.饭太硬.com/tv
 🌳常┃饭太硬2:
@@ -29,6 +21,14 @@ http://fty.333232.xyz/tv
 https://7213.kstore.vip/吃猫的鱼
 🌳常┃小米线路:
 http://www.mpanso.com/小米/DEMO.json
+🌳常┃肥猫宝贝:
+http://肥猫.com
+🌳常┃肥猫/备1:
+https://肥猫.com
+🌳常┃肥猫/备2:
+http://ceshi.肥猫.com/PandaQ
+//暂时作废🌳常┃肥猫/凯速:
+https://6296.kstore.vip/facat.json
 //需要输入激活码(包括OK影视）🌳常┃ok线路:
 http://ok321.top/ok
 //非OK影视需要输入激活码🌳常┃ok内部:
@@ -49,8 +49,6 @@ http://rihou.cc:55/天天开心
 http://kxrj.site:55/天天开心
 🌳常┃开心/电信:
 http://ttkx.cc:55/天天开心
-🌳常┃云星日记:
-http://itvbox.cc/云星日记
 🌳常┃欧歌:
 https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
 🌳常┃欧歌备:
@@ -61,10 +59,10 @@ https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=tv
 https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=tv
 🌳常┃Ray/骚零/俊于:
 https://100km.top/0
+🌳常┃潇洒欧歌版:
+https://tv.nxog.top/apitv.php?id=5
 //停用私人网盘流量有限🌳常┃潇洒在线:
 https://9877.kstore.space/AnotherD/api.json
-//停用🌳常┃潇洒/欧歌借用:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 🌳常┃南风/jsdelivr:
 https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json
 🌳常┃南风/刘老备:
@@ -93,6 +91,10 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/maste
 http://box.ufuzi.com/tv/qq/短剧频道/api.json
 🌳常┃奇奇儿童:
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+🌳常┃青龙:
+https://gitee.com/yiwu369/6758/raw/master/青龙/1.json
+🌳常┃青龙4K:
+https://gitee.com/yiwu369/6758/raw/master/青龙/2.json
 🌳常┃PG:
 http://www.fish2018.ip-ddns.com/p/jsm.json
 🌳常┃PG2:
@@ -109,10 +111,6 @@ http://www2.fish2018.ip-ddns.com/z/FongMi.json
 http://www3.fish2018.ip-ddns.com/z/FongMi.json
 🌳常┃真心备:
 https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
-🌳常┃晴天:
-http://itv.qtsh.top
-🌳常┃晴天PG:
-http://pg.qtsh.top
 
 
 
@@ -127,7 +125,7 @@ http://pg.qtsh.top
 
 //后面加1:
 
-//.pnga1=https://mirror.ghproxy.com/:
+//.pnga1=https://ghfast.top:
 
 //后面加2:
 
@@ -142,7 +140,7 @@ https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga2
 📺zyt┃饭太硬lab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga2
 📺zyt┃饭太硬hub:
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2
 📺zyt┃饭太硬欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2
 📺zyt┃饭太硬刘加速:
@@ -152,7 +150,7 @@ https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga2
 📺zyt┃肥猫gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga2
 📺zyt┃肥猫github:
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2
 📺zyt┃肥猫欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2
 📺zyt┃肥猫刘加速:
@@ -162,7 +160,7 @@ https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga2
 📺zyt┃欧歌gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga2
 📺zyt┃欧歌github:
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2
 📺zyt┃欧歌欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2
 📺zyt┃欧歌刘加速:
@@ -172,7 +170,7 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga2
 📺zyt┃潇洒gitlab:
 https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga2
 📺zyt┃潇洒github:
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2
 📺zyt┃潇洒欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2
 📺zyt┃潇洒刘加速:
@@ -201,54 +199,25 @@ file://TVBoxOSC/tvbox/api.json
 
 //https://lige.chat/:
 
-//失效🚀T┃网盘:
-http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json
 🚀T┃One:
 https://raw.kkgithub.com/leevi0709/one/main/jsm.json
 🚀T┃One/欧歌借用:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
-//接口格式修改🚀T┃D老魔改:
-https://download.kstore.space/download/2883/nzk/nzk0722.json
-🚀T┃D老魔改:
-https://d.kstore.dev/download/2883/nzk/nzk0722.json
-//失效🐹T┃荷城/日后:
-http://rihou.cc:88/荷城茶秀
-//失效🐹T┃荷城/日后/欧歌:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json
-//失效🐹T┃春盈天下:
-https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
 🐹T┃星辰/玉:
 https://fmbox.cc
-🐹T┃星辰/玉备:
-http://47.99.102.252/xc.json
 🐹T┃喵影视:
 http://meowtv.cn/tv
-🐹T┃青龙1:
-🐹T┃青龙:
-https://gitee.com/yiwu369/6758/raw/master/青龙/1.json
-🐹T┃青龙4K:
-https://gitee.com/yiwu369/6758/raw/master/青龙/2.json
-//codeberg封号不再维护🐹T┃青龙codeberg:
-https://codeberg.org/33137585/6758/raw/master/1.json
-🐹T┃天微/恒星:
-https://11256.kstore.space/TWYS/api.json
 🐹T┃天微/恒星:
 http://ygbhbox.3vfree.club/pg/jsm.json
 🐹T┃月光/宝盒/欧歌:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/max.json
-//经常换线路失效🐹T┃吾爱:
-http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0
 💎T┃不良帅:
-https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json
-//失效💎T┃T4:
-https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json
+https://notabug.org/qizhen15800/My9394/raw/master/不良帅.json
 💎T┃龙伊:
 https://龙伊.top
 💎T┃业余:
 https://yydf.540734621.xyz/QQ/yydf2024.json
-//接口失效 收费💎T┃无意云（同D佬，无法调入）:
-http://www.wya6.cn/tv/yc.json
-//项目不更新失效💎T┃二哈:
+💎T┃二哈:
 https://raw.kkgithub.com/2hacc/TVBox/main/tvbox.json
 💎T┃巧技:
 http://cdn.qiaoji8.com/tvbox.json
@@ -256,9 +225,9 @@ http://cdn.qiaoji8.com/tvbox.json
 https://tv.菜妮丝.top
 💎T┃小马:
 https://szyyds.cn/tv/x.json
-//大部内容为空💎T┃东辰1:
+💎T┃东辰1:
 https://gitee.com/dongchenzx/liu/raw/master/hb.json
-//空线路💎T┃东辰2:
+💎T┃东辰2:
 https://gitee.com/dongchenzx/fs/raw/master/ha.json
 
 
@@ -274,32 +243,28 @@ https://gitee.com/dongchenzx/fs/raw/master/ha.json
 http://xhztv.top/xhz
 🏄️盒┃小盒4K:
 http://xhztv.top/4k.json
-//失效🏄️盒┃毒盒：
+🏄️盒┃毒盒：
 https://毒盒.com/tv
-//失效🏄️盒┃PG：
-https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json
 🏄️盒┃动漫城 ：
 https://www.yingm.cc/dm/dm.json
-//接口失效🏄️盒┃dxawi ：
+🏄️盒┃dxawi ：
 https://dxawi.github.io/0/0.json
+🏄️盒┃驸马影视 ：
+http://fmys.top/fmys.json
 
 
 
 
 
 
-//网络搜集:
+//网络搜集+欧歌:
 
 //:
 
-//空线路失效☂️搜┃SoEasy导航:
-https://www.soeasy.love/tvbox/config.json
-//空线路☂️搜┃SoEasygitee:
-https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json
 ☂️搜┃盒子迷:
 https://盒子迷.top/禁止贩卖 
-//站点内容为空 失效☂️搜┃运输车:
-https://weixine.net/ysc.json
+☂️搜┃SoEasygitee:
+https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json
 ☂️搜┃无界专业版:
 https://www.xn--rgv465a.top/无界线路Pro版
 ☂️搜┃无界精简版:
@@ -312,6 +277,14 @@ http://yuhuavip1.top/育华学堂/斧头帮.php
 http://www.meowtv.top
 ☂️搜┃蜗牛影视:
 https://tv.蜗牛.top/svip
+☂️搜┃多多影视:
+https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin
+☂️搜┃老虎:
+http://tv.laohu.cool/tvbox.json
+☂️搜┃影仓:
+https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json
+☂️搜┃巧技:
+http://cdn.qiaoji8.com/tvbox.json
 
 
 
@@ -326,10 +299,6 @@ https://tv.蜗牛.top/svip
 http://home.jundie.top:81/top98.json
 🍂鸭┃pandown:
 http://pandown.pro/tvbox/tvbox.json
-//空线路🍂鸭┃TV网:
-https://zzzzz.tv/tv/ys.json
-//空线路🍂鸭┃TV网VIP:
-https://zzzzz.tv/tv/svip.json
 
 
 
@@ -348,6 +317,8 @@ https://gongdian.top/tvbox/xiaosa.json
 https://gongdian.top/tvbox/niu.json
 🐏OKPG专用┃OK:
 https://gongdian.top/tvbox/ok.json
+
+
 
 
 
