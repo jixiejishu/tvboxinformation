@@ -25,17 +25,15 @@ http://www.mpanso.com/小米/DEMO.json
 http://肥猫.com
 🌳常┃肥猫/备1:
 https://肥猫.com
-🌳常┃肥猫/备2:
-http://ceshi.肥猫.com/PandaQ
 🌳常┃肥猫/凯速:
 https://6296.kstore.vip/facat.json
 //需要输入激活码(包括OK影视）🌳常┃ok线路:
 http://ok321.top/ok
-//非OK影视需要输入激活码🌳常┃ok内部:
+//非OK影视需要输入激活码   🌳常┃ok内部:
 http://ok321.top/tv
 //需要输入激活码(包括OK影视）🌳常┃ok线路凯速:
 https://10936.kstore.space/ok
-//非OK影视需要输入激活码🌳常┃ok内部凯速:
+//非OK影视需要输入激活码  🌳常┃ok内部凯速:
 https://10936.kstore.space/tv
 🌳常┃王小二:
 http://tvbox.王二小放牛娃.top
@@ -135,46 +133,36 @@ https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
 //.pnga3=借用刘老备加速:
 
-📺zyt┃饭太硬c:
-https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga2
-📺zyt┃饭太硬lab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga2
-📺zyt┃饭太硬hub:
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2
-📺zyt┃饭太硬欧歌加速:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga2
-📺zyt┃饭太硬刘加速:
-https://raw.kkgithub.com/jixiejishu/zytzx/main/fty.pnga2
-📺zyt┃肥猫codeberg:
-https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga2
-📺zyt┃肥猫gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga2
-📺zyt┃肥猫github:
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2
-📺zyt┃肥猫欧歌加速:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga2
-📺zyt┃肥猫刘加速:
-https://raw.kkgithub.com/jixiejishu/zytzx/main/fm.pnga2
 📺zyt┃欧歌codeberg:
-https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga2
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1
 📺zyt┃欧歌gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga2
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga1
 📺zyt┃欧歌github:
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1
 📺zyt┃欧歌欧歌加速:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga2
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1
 📺zyt┃欧歌刘加速:
-https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga2
+https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga1
+📺zyt┃南风codeberg:
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga1
+📺zyt┃南风gitlab:
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga1
+📺zyt┃南风github:
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1
+📺zyt┃南风欧歌加速:
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1
+📺zyt┃南风刘加速:
+https://raw.kkgithub.com/jixiejishu/zytzx/main/nf.pnga1
 📺zyt┃潇洒codeberg:
-https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga2
+https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1
 📺zyt┃潇洒gitlab:
-https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga2
+https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga1
 📺zyt┃潇洒github:
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1
 📺zyt┃潇洒欧歌加速:
-https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2
+https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1
 📺zyt┃潇洒刘加速:
-https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2
+https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga1
 
 
 
@@ -317,11 +305,3 @@ https://gongdian.top/tvbox/xiaosa.json
 https://gongdian.top/tvbox/niu.json
 🐏OKPG专用┃OK:
 https://gongdian.top/tvbox/ok.json
-
-
-
-
-
-
-
-
