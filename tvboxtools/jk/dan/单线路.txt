@@ -94,21 +94,21 @@ https://gitee.com/yiwu369/6758/raw/master/青龙/1.json
 🌳常┃青龙4K:
 https://gitee.com/yiwu369/6758/raw/master/青龙/2.json
 🌳常┃PG:
-http://www.fish2018.ip-ddns.com/p/jsm.json
-🌳常┃PG2:
-http://www2.fish2018.ip-ddns.com/p/jsm.json
-🌳常┃PG3:
-http://www3.fish2018.ip-ddns.com/p/jsm.json
+https://www.252035.xyz/p/jsm.json
 🌳常┃PG备:
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
+🌳常┃PG备2:
+http://www.fish2018.ip-ddns.com/p/jsm.json
+🌳常┃PG备3:
+http://www3.fish2018.ip-ddns.com/p/jsm.json
 🌳常┃真心:
-http://www.fish2018.ip-ddns.com/z/FongMi.json
-🌳常┃真心2:
-http://www2.fish2018.ip-ddns.com/z/FongMi.json
-🌳常┃真心3:
-http://www3.fish2018.ip-ddns.com/z/FongMi.json
+https://www.252035.xyz/z/FongMi.json
 🌳常┃真心备:
 https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
+🌳常┃真心备2:
+http://www.fish2018.ip-ddns.com/z/FongMi.json
+🌳常┃真心备3:
+http://www3.fish2018.ip-ddns.com/z/FongMi.json
 
 
 
@@ -119,15 +119,13 @@ https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
 //通过更改后缀切换不同的加速平台：:
 
-//.pnga=https://ghgo.xyz:
-
 //后面加1:
 
-//.pnga1=https://ghfast.top:
+//.pnga1=借用欧歌加速:
 
 //后面加2:
 
-//.pnga2=借用欧歌加速:
+//.pnga2=https://github.moeyy.xyz/:
 
 //后面加3:
 
@@ -265,6 +263,8 @@ http://yuhuavip1.top/育华学堂/斧头帮.php
 http://www.meowtv.top
 ☂️搜┃蜗牛影视:
 https://tv.蜗牛.top/svip
+☂️搜┃驸马线路:
+http://fmys.top/fmys.json
 ☂️搜┃多多影视:
 https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin
 ☂️搜┃老虎:
@@ -305,3 +305,13 @@ https://gongdian.top/tvbox/xiaosa.json
 https://gongdian.top/tvbox/niu.json
 🐏OKPG专用┃OK:
 https://gongdian.top/tvbox/ok.json
+
+
+
+
+
+
+
+
+
+
