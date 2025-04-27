@@ -1,3 +1,6 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
+//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
+
 {"urls": [
 //奇奇+自制
 //http://qiqiv.cn/zy.php 
@@ -45,26 +48,26 @@
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🌳常┃青龙"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json ","name": "🌳常┃青龙4K"},
-{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG"},
-{"url": "http://www2.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG2"},
-{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG3"},
+{"url": "https://www.252035.xyz/p/jsm.json ","name": "🌳常┃PG"},
 {"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
-{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心"},
-{"url": "http://www2.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心2"},
-{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心3"},
+{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备2"},
+{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备3"},
+{"url": "https://www.252035.xyz/z/FongMi.json ","name": "🌳常┃真心"},
 {"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
+{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备2"},
+{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备3"},
 
 
 
 //zyt 目前默认是欧歌
 //通过更改后缀切换不同的加速平台：
-//.pnga=https://ghgo.xyz
 //后面加1
-//.pnga1=https://ghfast.top
+//.pnga1=借用欧歌加速
 //后面加2
-//.pnga2=借用欧歌加速
+//.pnga2=https://github.moeyy.xyz/
 //后面加3
 //.pnga3=借用刘老备加速
+
 {"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1 ","name": "📺zyt┃欧歌codeberg"},
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga1 ","name": "📺zyt┃欧歌gitlab"},
 {"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1 ","name": "📺zyt┃欧歌github"},
@@ -136,6 +139,7 @@
 {"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
 {"url": "http://www.meowtv.top ","name": "☂️搜┃猫TV"},
 {"url": "https://tv.蜗牛.top/svip ","name": "☂️搜┃蜗牛影视"},
+{"url": "http://fmys.top/fmys.json ","name": "☂️搜┃驸马线路"},
 {"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin ","name": "☂️搜┃多多影视"},
 {"url": "http://tv.laohu.cool/tvbox.json ","name": "☂️搜┃老虎"},
 {"url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json ","name": "☂️搜┃影仓"},
