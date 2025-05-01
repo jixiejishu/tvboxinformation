@@ -3,7 +3,6 @@
 { "storeHouse": [
 {"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
 {"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用刘加速🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用欧加速🔩","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
