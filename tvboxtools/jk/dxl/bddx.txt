@@ -10,20 +10,21 @@
 //后面加3
 //.pnga3=借用刘老备加速
 {"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1 ","name": "📺zyt┃欧歌codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga1 ","name": "📺zyt┃欧歌gitlab"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/og.pnga1 ","name": "📺zyt┃欧歌jsdelivr"},
 {"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1 ","name": "📺zyt┃欧歌github"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1 ","name": "📺zyt┃欧歌欧歌加速"},
 {"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga1 ","name": "📺zyt┃欧歌刘加速"},
 {"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga1 ","name": "📺zyt┃南风codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga1 ","name": "📺zyt┃南风gitlab"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/nf.pnga1 ","name": "📺zyt┃南风jsdelivr"},
 {"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1 ","name": "📺zyt┃南风github"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1 ","name": "📺zyt┃南风欧歌加速"},
 {"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/nf.pnga1 ","name": "📺zyt┃南风刘加速"},
 {"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1 ","name": "📺zyt┃潇洒codeberg"},
-{"url": "https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga1 ","name": "📺zyt┃潇洒gitlab"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.pnga1 ","name": "📺zyt┃潇洒jsdelivr "},
 {"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1 ","name": "📺zyt┃潇洒github"},
 {"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1 ","name": "📺zyt┃潇洒欧歌加速"},
 {"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga1 ","name": "📺zyt┃潇洒刘加速"},
+
 //奇奇本地
         {
             "url": "clan://localhost/tvboxqq/本地仓.txt",
