@@ -130,11 +130,10 @@ http://www3.fish2018.ip-ddns.com/z/FongMi.json
 //后面加3:
 
 //.pnga3=借用刘老备加速:
-
 📺zyt┃欧歌codeberg:
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1
-📺zyt┃欧歌gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga1
+📺zyt┃欧歌jsdelivr:
+https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/og.pnga1
 📺zyt┃欧歌github:
 https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1
 📺zyt┃欧歌欧歌加速:
@@ -143,8 +142,8 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/h
 https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga1
 📺zyt┃南风codeberg:
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga1
-📺zyt┃南风gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga1
+📺zyt┃南风jsdelivr:
+https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/nf.pnga1
 📺zyt┃南风github:
 https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1
 📺zyt┃南风欧歌加速:
@@ -153,14 +152,15 @@ https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/h
 https://raw.kkgithub.com/jixiejishu/zytzx/main/nf.pnga1
 📺zyt┃潇洒codeberg:
 https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1
-📺zyt┃潇洒gitlab:
-https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga1
+📺zyt┃潇洒jsdelivr :
+https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.pnga1
 📺zyt┃潇洒github:
 https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1
 📺zyt┃潇洒欧歌加速:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1
 📺zyt┃潇洒刘加速:
 https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga1
+
 
 
 
@@ -305,13 +305,3 @@ https://gongdian.top/tvbox/xiaosa.json
 https://gongdian.top/tvbox/niu.json
 🐏OKPG专用┃OK:
 https://gongdian.top/tvbox/ok.json
-
-
-
-
-
-
-
-
-
-
