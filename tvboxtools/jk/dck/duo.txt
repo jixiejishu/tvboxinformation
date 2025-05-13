@@ -15,7 +15,6 @@
 {"sourceName": "☘️欧歌本地助手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
 {"sourceName": "☘️欧歌本地助手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
 {"sourceName": "🌴天微在线 🌴","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
-{"sourceName": "🌴多多在线 🌴","sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"},
 {"sourceName": "☘️奇奇本地☘️","sourceUrl": "clan://localhost/tvboxqq/本地仓.txt"},
 {"sourceName": "☘️奇奇本地影视☘️","sourceUrl": "file://tvboxqq/fm.txt"},
 {"sourceName": "⭐云星本地⭐","sourceUrl": "clan://localhost/TVBox/本地仓库.json"},
