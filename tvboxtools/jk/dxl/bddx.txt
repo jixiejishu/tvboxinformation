@@ -10,11 +10,11 @@
 //后面加3
 //.pnga3=借用刘老备加速
 //bdb
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/本地包接口.pnga ","name": "本地包codeberg"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/本地包接口.pnga ","name": "本地包jsdelivr"},
-{"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/本地包接口.pnga ","name": "本地包github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/本地包接口.pnga ","name": "本地包欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/本地包接口.pnga ","name": "本地包刘加速"},
+{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/本地包在线更新.jpgx ","name": "本地包codeberg"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/本地包在线更新.jpgx ","name": "本地包jsdelivr"},
+{"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/本地包在线更新.jpgx ","name": "本地包github"},
+{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/本地包在线更新.jpgx ","name": "本地包欧歌加速"},
+{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/本地包在线更新.jpgx ","name": "本地包刘加速"},
 {"url": "https://www.now61.com/f/xRDrt0/%E6%9C%AC%E5%9C%B0%E5%8C%85%E5%9C%A8%E7%BA%BF%E6%9B%B4%E6%96%B0.txt ","name": "本地包六一云"},
 //zyt
 {"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1 ","name": "📺zyt┃欧歌codeberg"},
