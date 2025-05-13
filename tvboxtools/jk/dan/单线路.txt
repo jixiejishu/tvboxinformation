@@ -189,7 +189,7 @@ file://TVBoxOSC/tvbox/api.json
 https://raw.kkgithub.com/leevi0709/one/main/jsm.json
 🚀T┃One/欧歌借用:
 https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
-🐹T┃星辰/玉:
+//需要激活 圈子付费🐹T┃星辰/玉:
 https://fmbox.cc
 🐹T┃喵影视:
 http://meowtv.cn/tv
