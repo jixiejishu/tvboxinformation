@@ -1,167 +1,54 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
-//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr 等加速
+
 {"urls": [
-//奇奇+自制
-//http://qiqiv.cn/zy.php 
-{"url": "http://www.饭太硬.com/tv ","name": "🌳常┃饭太硬1"},
+//QQ群 导航
+{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
 {"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
-{"url": "http://www.饭太硬.xyz/tv ","name": "🌳常┃饭太硬备0"},
+{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
 {"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
-{"url": "http://fty.888484.xyz/tv ","name": "🌳常┃饭太硬备2"},
+{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
 {"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
-{"url": "https://7213.kstore.vip/吃猫的鱼 ","name": "🌳常┃吃猫的鱼"},
-{"url": "http://www.mpanso.com/小米/DEMO.json ","name": "🌳常┃小米线路"},
-{"url": "http://肥猫.com ","name": "🌳常┃肥猫宝贝"},
-{"url": "https://肥猫.com ","name": "🌳常┃肥猫/备1"},
-{"url": "https://6296.kstore.vip/facat.json ","name": "🌳常┃肥猫/凯速"},
-//需要输入激活码(包括OK影视）{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
-//非OK影视需要输入激活码   {"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
-//需要输入激活码(包括OK影视）{"url": "https://10936.kstore.space/ok ","name": "🌳常┃ok线路凯速"},
-//非OK影视需要输入激活码  {"url": "https://10936.kstore.space/tv ","name": "🌳常┃ok内部凯速"},
+{"url": "http://肥猫.net/tv ","name": "🌳常┃肥猫宝贝"},
+{"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
+{"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
+{"url": "https://z.qiqiv.cn/666 ","name": "🌳常┃奇奇戏曲"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
-{"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
-{"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
-{"url": "http://rihou.cc:55/天天开心 ","name": "🌳常┃开心"},
-{"url": "http://kxrj.site:55/天天开心 ","name": "🌳常┃开心/备"},
-{"url": "http://ttkx.cc:55/天天开心 ","name": "🌳常┃开心/电信"},
-{"url": "https://tv.nxog.top/m/ ","name": "🌳常┃欧歌"},
-{"url": "https://tv.nxog.top/apitv.php?id=21 ","name": "🌳常┃欧歌备"},
-{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=tv ","name": "🌳常┃欧歌云盘"},
-{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=tv ","name": "🌳常┃欧歌学习"},
-{"url": "https://100km.top/0 ","name": "🌳常┃Ray/骚零/俊于"},
+{"url": "http://tv.999888987.xyz/ ","name": "🌳常┃王小二备1"},
+{"url": "http://tv.999888123.xyz/ ","name": "🌳常┃王小二备2"},
+{"url": "https://9280.kstore.vip/wex.json ","name": "🌳常┃王二凯速"},
+{"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
+{"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
+{"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
+{"url": "https://6800.kstore.vip/fish.json ","name": "🌳常┃摸鱼凯速"},
+{"url": "http://tv.nxog.top/m/ ","name": "🌳常┃欧歌"},
+{"url": "https://tv.nxog.top/m/ ","name": "🌳常┃欧歌备用"},
 {"url": "https://tv.nxog.top/apitv.php?id=5 ","name": "🌳常┃潇洒欧歌版"},
-//停用私人网盘流量有限{"url": "https://9877.kstore.space/AnotherD/api.json ","name": "🌳常┃潇洒在线"},
-{"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json ","name": "🌳常┃南风/jsdelivr"},
-{"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json ","name": "🌳常┃南风/刘老备"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json ","name": "🌳常┃南风/欧歌"},
-{"url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json ","name": "🌳常┃香雅情/jsdelivr"},
-{"url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json ","name": "🌳常┃香雅情"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json ","name": "🌳常┃香雅情/欧歌"},
-{"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json ","name": "🌳常┃刘老备/jsdelivr"},
-{"url": "https://raw.kkgithub.com/liu673cn/box/main/m.json ","name": "🌳常┃刘老备"},
-{"url": "https://raw.liucn.cc/box/m.json ","name": "🌳常┃刘老备/欧歌"},
-{"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@main/js.json ","name": "🌳常┃高天流云/jsdelivr"},
-{"url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/刘老备"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ","name": "🌳常┃高天流云/欧歌"},
-{"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json ","name": "🌳常┃奇奇短剧"},
-{"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
-{"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🌳常┃青龙"},
-{"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json ","name": "🌳常┃青龙4K"},
-{"url": "https://www.252035.xyz/p/jsm.json ","name": "🌳常┃PG"},
-{"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
-{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备2"},
-{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备3"},
-{"url": "https://www.252035.xyz/z/FongMi.json ","name": "🌳常┃真心"},
-{"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
-{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备2"},
-{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备3"},
+//github 项目
+//https://gh-proxy.com/ 
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G┃南风"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G┃香雅情"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G┃多多在线"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G┃裤老"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
 
+//https://github.catvod.com/
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G备1┃南风"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G备1┃香雅情"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G备1┃多多在线"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G备1┃裤老"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
 
-
-//zyt 目前默认是欧歌
-//通过更改后缀切换不同的加速平台：
-//后面加1
-//.pnga1=借用欧歌加速
-//后面加2
-//.pnga2=https://github.moeyy.xyz/
-//后面加3
-//.pnga3=借用刘老备加速
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1 ","name": "📺zyt┃欧歌codeberg"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/og.pnga1 ","name": "📺zyt┃欧歌jsdelivr"},
-{"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1 ","name": "📺zyt┃欧歌github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga1 ","name": "📺zyt┃欧歌欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/og.pnga1 ","name": "📺zyt┃欧歌刘加速"},
-{"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga1 ","name": "📺zyt┃南风codeberg"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/nf.pnga1 ","name": "📺zyt┃南风jsdelivr"},
-{"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1 ","name": "📺zyt┃南风github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga1 ","name": "📺zyt┃南风欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zytzx/main/nf.pnga1 ","name": "📺zyt┃南风刘加速"},
-{"url": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1 ","name": "📺zyt┃潇洒codeberg"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.pnga1 ","name": "📺zyt┃潇洒jsdelivr "},
-{"url": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1 ","name": "📺zyt┃潇洒github"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1 ","name": "📺zyt┃潇洒欧歌加速"},
-{"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga1 ","name": "📺zyt┃潇洒刘加速"},
-
-
-
-
-//潇洒本地包在线更新
-//QQ频道异次元空间
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒通用本地🌟"
-    },
-    {
-      "url": "file://TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒蜂蜜本地🌟"
-    },
-
-
-
-//TVbox助手提供（目前已经没有了）
-//https://lige.chat/
-{"url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json ","name": "🚀T┃One/欧歌借用"},
-//需要激活 圈子付费{"url": "https://fmbox.cc ","name": "🐹T┃星辰/玉"},
-{"url": "http://meowtv.cn/tv ","name": "🐹T┃喵影视"},
-{"url": "http://ygbhbox.3vfree.club/pg/jsm.json ","name": "🐹T┃天微/恒星"},
-{"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/max.json ","name": "🐹T┃月光/宝盒/欧歌"},
-{"url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.json ","name": "💎T┃不良帅"},
-{"url": "https://龙伊.top ","name": "💎T┃龙伊"},
-{"url": "https://yydf.540734621.xyz/QQ/yydf2024.json ","name": "💎T┃业余"},
-{"url": "https://raw.kkgithub.com/2hacc/TVBox/main/tvbox.json ","name": "💎T┃二哈"},
-{"url": "http://cdn.qiaoji8.com/tvbox.json ","name": "💎T┃巧技"},
-{"url": "https://tv.菜妮丝.top ","name": "💎T┃菜妮丝"},
-{"url": "https://szyyds.cn/tv/x.json ","name": "💎T┃小马"},
-{"url": "https://gitee.com/dongchenzx/liu/raw/master/hb.json ","name": "💎T┃东辰1"},
-{"url": "https://gitee.com/dongchenzx/fs/raw/master/ha.json ","name": "💎T┃东辰2"},
-
-
-
-//酷玩盒子接口
-//https://juwanhezi.com/other/jsonlist
-{"url": "http://xhztv.top/xhz ","name": "🏄️盒┃小盒"},
-{"url": "http://xhztv.top/4k.json ","name": "🏄️盒┃小盒4K"},
-{"url": "https://毒盒.com/tv ","name": "🏄️盒┃毒盒"},
-{"url": "https://www.yingm.cc/dm/dm.json ","name": "🏄️盒┃动漫城 "},
-{"url": "https://dxawi.github.io/0/0.json ","name": "🏄️盒┃dxawi "},
-{"url": "http://fmys.top/fmys.json ","name": "🏄️盒┃驸马影视 "},
-
-
-
-//网络搜集+欧歌
-//
-{"url": "https://盒子迷.top/禁止贩卖  ","name": "☂️搜┃盒子迷"},
-{"url": "https://gitee.com/kevinr/tvbox/raw/master/soeasy/configt.json ","name": "☂️搜┃SoEasygitee"},
-{"url": "https://www.xn--rgv465a.top/无界线路Pro版 ","name": "☂️搜┃无界专业版"},
-{"url": "https://www.xn--rgv465a.top/无界线路Lite版 ","name": "☂️搜┃无界精简版"},
-{"url": "https://www.xn--rgv465a.top/无界线路Kids版 ","name": "☂️搜┃无界儿童版"},
-{"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
-{"url": "http://www.meowtv.top ","name": "☂️搜┃猫TV"},
-{"url": "https://tv.蜗牛.top/svip ","name": "☂️搜┃蜗牛影视"},
-{"url": "http://fmys.top/fmys.json ","name": "☂️搜┃驸马线路"},
-{"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin ","name": "☂️搜┃多多影视"},
-{"url": "http://tv.laohu.cool/tvbox.json ","name": "☂️搜┃老虎"},
-{"url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json ","name": "☂️搜┃影仓"},
-{"url": "http://cdn.qiaoji8.com/tvbox.json ","name": "☂️搜┃巧技"},
-
-
-
-//鸭先知
-//https://www.yxzhi.com/
-{"url": "http://home.jundie.top:81/top98.json ","name": "🍂鸭┃俊哥/俊佬"},
-{"url": "http://pandown.pro/tvbox/tvbox.json ","name": "🍂鸭┃pandown"},
-
-
-
-//OKPG版专用接口
-//https://gongdian.top/app
-{"url": "https://gongdian.top/tvbox/fan.json  ","name": "🐏OKPG专用┃饭太硬"},
-{"url": "https://gongdian.top/tvbox/xiaosa.json ","name": "🐏OKPG专用┃潇洒"},
-{"url": "https://gongdian.top/tvbox/niu.json ","name": "🐏OKPG专用┃王小二"},
-{"url": "https://gongdian.top/tvbox/ok.json ","name": "🐏OKPG专用┃OK"}
-
+//https://www.jsdelivr.com/
+{"url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/js.json ","name": "G备2┃高天流云"},
+{"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json ","name": "G备2┃南风"},
+{"url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json ","name": "G备2┃香雅情"},
+{"url": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/config.bin ","name": "G备2┃多多在线"},
+{"url": "https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json ","name": "G备2┃小米"},
+{"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"}
 
 
 ]}
-

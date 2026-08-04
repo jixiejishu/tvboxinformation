@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://www.饭太硬.art/tv",
+      "name": "饭太硬（备用）"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
+      "name": "小米"
+    },
+    {
+      "url": "http://肥猫.net/tv",
+      "name": "肥猫"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "王二小"
+    },
+    {
+      "url": "https://9763.kstore.vip/aowu.json",
+      "name": "嗷呜"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼儿"
+    },
+    {
+      "url": "http://rihou.cc:88/demo.php",
+      "name": "集多"
+    },
+    {
+      "url": "https://9877.kstore.space/one.json",
+      "name": "潇洒"
+    },
+    {
+      "url": "https://xn--jory77o.v.nxog.top/m/",
+      "name": "欧歌"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "小虎斑"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "name": "南风"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json",
+      "name": "少儿频道"
+    },
+    {
+      "url": "http://z.qiqiv.cn/666",
+      "name": "戏曲音乐"
+    }
+  ]
+}
