@@ -1,0 +1,101 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
+//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
+
+ //QQ群 导航:
+ 
+ 🌳常┃饭太硬1:
+http://www.饭太硬.cc/tv 
+ 🌳常┃饭太硬2:
+http://www.饭太硬.net/tv 
+ 🌳常┃饭太硬备0:
+http://www.饭太硬.art/tv  
+ 🌳常┃饭太硬备1:
+http://fty.xxooo.cf/tv 
+ 🌳常┃饭太硬备2:
+http://fty.888484.xyz/tv  
+ 🌳常┃饭太硬备3:
+http://fty.333232.xyz/tv 
+ 🌳常┃肥猫宝贝:
+http://肥猫.net/tv 
+ 🌳常┃肥猫/备1:
+http://hello.肥猫.net 
+ 🌳常┃肥猫/备2:
+https://w.junce.dpdns.org/fm.gif 
+ 🌳常┃奇奇戏曲:
+https://z.qiqiv.cn/666 
+ 🌳常┃王小二:
+http://tvbox.王二小放牛娃.top 
+ 🌳常┃王小二备1:
+http://tv.999888987.xyz/ 
+ 🌳常┃王小二备2:
+http://tv.999888123.xyz/ 
+ 🌳常┃王二凯速:
+https://9280.kstore.vip/wex.json 
+ 🌳常┃摸鱼:
+https://摸鱼儿.cc/ 
+ 🌳常┃摸鱼备:
+http://我不是.摸鱼儿.cc/ 
+ 🌳常┃摸鱼备2:
+https://www.小不点.com/ 
+ 🌳常┃摸鱼凯速:
+https://6800.kstore.vip/fish.json 
+ 🌳常┃欧歌:
+http://tv.nxog.top/m/ 
+ 🌳常┃欧歌备用:
+https://tv.nxog.top/m/ 
+ 🌳常┃潇洒欧歌版:
+https://tv.nxog.top/apitv.php?id=5 
+ //github 项目:
+ 
+ //https://gh-proxy.com/ :
+ 
+ G┃高天流云:
+https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json 
+ G┃南风:
+https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json 
+ G┃香雅情:
+https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json 
+ G┃多多在线:
+https://gh-proxy.org/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin 
+ G┃裤老:
+https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg 
+ G┃小米:
+https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json 
+ G┃奇奇少儿频道:
+https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json 
+
+ //https://github.catvod.com/:
+ 
+ G备1┃高天流云:
+https://github.catvod.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json 
+ G备1┃南风:
+https://github.catvod.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json 
+ G备1┃香雅情:
+https://github.catvod.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json 
+ G备1┃多多在线:
+https://github.catvod.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin 
+ G备1┃裤老:
+https://github.catvod.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg 
+ G备1┃小米:
+https://github.catvod.com/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json 
+ G备1┃奇奇少儿频道:
+https://github.catvod.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json 
+
+ //https://www.jsdelivr.com/:
+ 
+ G备2┃高天流云:
+https://cdn.jsdelivr.net/gh/qist/tvbox@master/js.json 
+ G备2┃南风:
+https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json 
+ G备2┃香雅情:
+https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json 
+ G备2┃多多在线:
+https://cdn.jsdelivr.net/gh/leevi0709/one@main/config.bin 
+ G备2┃小米:
+https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json 
+ G备2┃奇奇少儿频道:
+https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json 
+ 
+ 
+ 
+ 

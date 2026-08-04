@@ -1,0 +1,34 @@
+ //http://a.qiqiv.cn/zy.php:
+ 
+ 饭太硬:
+http://www.饭太硬.net/tv 
+ 饭太硬（备用）:
+http://www.饭太硬.art/tv 
+ 小米:
+https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json 
+ 肥猫:
+http://肥猫.net/tv 
+ 王二小:
+https://9280.kstore.vip/newwex.json 
+ 嗷呜:
+https://9763.kstore.vip/aowu.json 
+ 摸鱼儿:
+http://我不是.摸鱼儿.top 
+ 集多:
+http://rihou.cc:88/demo.php 
+ 潇洒:
+https://9877.kstore.space/one.json 
+ 欧歌:
+http://tv.nxog.top/m/ 
+ 小虎斑:
+http://hb.小虎斑.site:25252/仅供测试 
+ 南风:
+https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json 
+ 少儿频道:
+https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json 
+ 戏曲音乐:
+https://z.qiqiv.cn/666 
+ 
+ 
+ 
+ 
