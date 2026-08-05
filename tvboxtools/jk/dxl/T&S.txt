@@ -49,7 +49,11 @@
 {"url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json ","name": "G备2┃香雅情"},
 {"url": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/config.bin ","name": "G备2┃多多在线"},
 {"url": "https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json ","name": "G备2┃小米"},
-{"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"}
+{"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"},
 
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB"},
+{"url": "https://github.catvod.com/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB备"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json ","name": "ZB备1"},
+{"url": "https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json ","name": "ZB codeberg"}
 
 ]}
