@@ -1,4 +1,4 @@
-1.接口  
+1.影视TVbox接口  
 1.1  
 多线路接口：
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt  
@@ -17,6 +17,13 @@ https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dck/d
 codeberg平台接口  
 https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dck/duo.txt  
 
+1.3 单线路  
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dan/单线路.txt  
+https://github.catvod.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dan/单线路.txt  
+https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dan/单线路.txt  
+
+codeberg平台接口  
+https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dan/单线路.txt  
 
 
 2.常用软件下载  
