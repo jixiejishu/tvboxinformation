@@ -197,12 +197,28 @@ https://juwanhezi.com/
 接口部分更新较慢。广告非常多。有伪装上架（伪上架）的ios软件  
 
 4.7汇总软件和接口  
-1.  
+
+4.7.1  
 https://github.com/youhunwl/TVAPP  
 
+有很多下载软件，但是版本比较老
 
-2.  
+4.7.2   
 https://github.com/tushen6/Tomorrow  
+
+Github加速站点   
+https://gh-proxy.com/  
+https://github.catvod.com/  
+https://gh.xxooo.cf/  
+https://gh.llkk.cc/  
+https://github.ednovas.xyz/  
+https://gitdl.cn/  
+https://cf.ghproxy.cc/  
+https://ghproxy.net/  
+https://gh.aptv.app/  
+https://gitpr.xmcom.us.kg/  
+https://ghproxy.cn/  
+
 
 
 5.ZB项目  
@@ -247,8 +263,24 @@ https://github.com/lyswhut/lx-music-mobile
 绿色版：  
 直接解压不需要安装  
 
-六音软件www.sixyin.com 搜索“音源”  
+音源：  
+六音软件www.sixyin.com 搜索“音源”  (已经无法打开)  
 https://www.sixyin.com/8498.html  
+
+其它音源下载  
+https://www.iptvindex.com/    
+https://awaw.cc/post/lx-music-source    
+
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js  
+
+6.3 青听音乐   
+只有安卓版   
+https://github.com/kejichangqing/QingMusic  
+
+https://github.com/kejichangqing/QingMusic/releases  
+接口  
+https://13413.kstore.space/QingMusic/music.json  
+
 
 7 ios  
 7.1  
