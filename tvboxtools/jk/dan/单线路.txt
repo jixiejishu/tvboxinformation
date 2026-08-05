@@ -1,5 +1,5 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr /刘老备/欧歌加速（道长等线路不适合家庭观看）OKPG使用OKPG接口里面的肥羊才能用仅有TV版。
-//非OK影视需要输入激活码才能使用，无法退出，非常危险。在T%S普通接口后面加一个OK就可以使用了。内置版以OK影视为基础制作，默认添加OK接口。
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr 等加速
+
 
  //QQ群 导航:
  
@@ -24,13 +24,13 @@ https://w.junce.dpdns.org/fm.gif
  🌳常┃奇奇戏曲:
 https://z.qiqiv.cn/666 
  🌳常┃王小二:
-http://tvbox.王二小放牛娃.top 
+https://www.王二小放牛娃.top/ 
  🌳常┃王小二备1:
-http://tv.999888987.xyz/ 
+http://new.王二小放牛娃.top 
  🌳常┃王小二备2:
-http://tv.999888123.xyz/ 
+http://ai.王二小放牛娃.top/ 
  🌳常┃王二凯速:
-https://9280.kstore.vip/wex.json 
+https://9280.kstore.vip/aiwex.json 
  🌳常┃摸鱼:
 https://摸鱼儿.cc/ 
  🌳常┃摸鱼备:
@@ -43,6 +43,8 @@ https://6800.kstore.vip/fish.json
 http://tv.nxog.top/m/ 
  🌳常┃欧歌备用:
 https://tv.nxog.top/m/ 
+ 🌳常┃潇洒欧歌版:
+https://tv.nxog.top/apitv.php?id=5 
  🌳常┃潇洒欧歌版:
 https://tv.nxog.top/apitv.php?id=5 
  //github 项目:
@@ -99,3 +101,5 @@ https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json
  
  
  
+
+
