@@ -12,9 +12,9 @@
 {"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
 {"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
 {"url": "https://z.qiqiv.cn/666 ","name": "🌳常┃奇奇戏曲"},
-{"url": "https://www.王二小放牛娃.top/ ","name": "🌳常┃王小二"},
+{"url": "http://ai.王二小放牛娃.top/ ","name": "🌳常┃王小二"},
 {"url": "http://new.王二小放牛娃.top ","name": "🌳常┃王小二备1"},
-{"url": "http://ai.王二小放牛娃.top/ ","name": "🌳常┃王小二备2"},
+{"url": "http://new.999888123.xyz ","name": "🌳常┃王小二备2"},
 {"url": "https://9280.kstore.vip/aiwex.json ","name": "🌳常┃王二凯速"},
 {"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
@@ -53,4 +53,3 @@
 
 
 ]}
-
