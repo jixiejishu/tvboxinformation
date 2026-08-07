@@ -133,9 +133,9 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json
 
 3.2. 南风  
 https://github.com/yoursmile66/TVBox  
-地址
+地址  
 https://github.com/yoursmile66/TVBox/blob/main/XC.json  
-直链
+直链  
 https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json  
 
 3.3香雅情  
@@ -295,13 +295,23 @@ Miraplay
 王二小  
 Miraplay 专用接口：  
 https://9280.kstore.vip/cat/index.js.md5  
+
+md5接口 猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁通用  
+
+比较麻烦 需要使用非国区ID登陆安装，或者非国区苹果电脑下载后传入手机安装，
+
+类似的还有JSTV ，魔力云播  
+
 7.2伪上架  
 聚玩盒子  
 https://juwanhezi.com/  
-接口部分更新较慢。广告非常多。有伪装上架（伪上架）的ios软件  
+广告非常多。有伪装上架（伪上架）的ios软件  
+硬核指南  
+https://yinghezhinan.com/ios-app/  
+
 
 7.3  
-需要自签  
+需要自签或者使用巨魔    
 羊壳 PeeKPro  
 UZ  
 
