@@ -1,0 +1,11 @@
+
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr加速
+
+{ "storeHouse": [
+{"sourceName": "🌹欧歌主仓库🌹","sourceUrl": "https://xn.v.nxog.top/nxog/oua.php"},
+{"sourceName": "🌹欧歌备1仓库🌹","sourceUrl": "https://by1.430520.xyz"},
+{"sourceName": "🌷欧歌备2仓库🌷","sourceUrl": "https://by2.nxog.eu.org"},
+{"sourceName": "☘️欧歌半本地多线路☘️","sourceUrl": "clan://localhost/tvbox/dc.txt"}
+
+
+]}
