@@ -40,13 +40,9 @@ https://www.小不点.com/
 🌳常┃摸鱼凯速:
 https://6800.kstore.vip/fish.json
 🌳常┃欧歌:
-http://tv.nxog.top/m/
-🌳常┃欧歌备用:
-https://tv.nxog.top/m/
+https://xn.v.nxog.top/m
 🌳常┃潇洒欧歌版:
-https://tv.nxog.top/apitv.php?id=5
-🌳常┃潇洒欧歌版:
-https://tv.nxog.top/apitv.php?id=5
+https://xn.v.nxog.top/apib.php?id=5
 //github 项目:
 
 //https://gh-proxy.com/ :
@@ -107,6 +103,21 @@ ZB备1:
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json
 ZB codeberg:
 https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
