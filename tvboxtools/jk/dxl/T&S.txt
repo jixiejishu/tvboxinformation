@@ -20,10 +20,8 @@
 {"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
 {"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
 {"url": "https://6800.kstore.vip/fish.json ","name": "🌳常┃摸鱼凯速"},
-{"url": "http://tv.nxog.top/m/ ","name": "🌳常┃欧歌"},
-{"url": "https://tv.nxog.top/m/ ","name": "🌳常┃欧歌备用"},
-{"url": "https://tv.nxog.top/apitv.php?id=5 ","name": "🌳常┃潇洒欧歌版"},
-{"url": "https://tv.nxog.top/apitv.php?id=5 ","name": "🌳常┃潇洒欧歌版"},
+{"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
+{"url": "https://xn.v.nxog.top/apib.php?id=5 ","name": "🌳常┃潇洒欧歌版"},
 //github 项目
 //https://gh-proxy.com/ 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
@@ -57,3 +55,4 @@
 {"url": "https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json ","name": "ZB codeberg"}
 
 ]}
+
