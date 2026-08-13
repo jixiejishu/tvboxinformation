@@ -2,10 +2,12 @@
 
 { "storeHouse": [
 {"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
-{"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用gh加速🔩","sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName": "🔩常用catvod速🔩","sourceUrl": "https://github.catvod.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用饭太加速🔩","sourceUrl": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt "},
+{"sourceName": "🔩常用酷云🔩","sourceUrl": "https://fastlink.cokey.xyz/f/RNBYso/T&S.txt"},
 {"sourceName": "🌹欧歌主仓库🌹","sourceUrl": "https://xn.v.nxog.top/nxog/oua.php"},
 {"sourceName": "🌹欧歌备1仓库🌹","sourceUrl": "https://by1.430520.xyz"},
 {"sourceName": "🌷欧歌备2仓库🌷","sourceUrl": "https://by2.nxog.eu.org"},
