@@ -1,0 +1,11 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr加速
+
+{ "storeHouse": [
+{"sourceName": "匿名单仓","sourceUrl": "https://12586.kstore.space/123.txt"},
+{"sourceName": "游魂单仓","sourceUrl": "https://www.iyouhun.com/tv/dc"},
+{"sourceName": "无名单仓","sourceUrl": "https://github.catvod.com/raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
+{"sourceName": "欧歌单仓","sourceUrl": "https://双龙.v.nxog.top/nxog/oua.php"},
+{"sourceName": "奇奇单仓","sourceUrl": "http://z.qiqiv.cn/123"}
+
+
+]}
