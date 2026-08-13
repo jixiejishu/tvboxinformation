@@ -32,14 +32,14 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
 
-//https://github.catvod.com/
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G备1┃南风"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G备1┃香雅情"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G备1┃多多在线"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G备1┃裤老"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
+//https://gh.xxooo.cf/
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G备1┃南风"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G备1┃香雅情"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G备1┃多多在线"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G备1┃裤老"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
 
 //https://www.jsdelivr.com/
 {"url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/js.json ","name": "G备2┃高天流云"},
@@ -50,7 +50,7 @@
 {"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"},
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB"},
-{"url": "https://github.catvod.com/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB备"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB备"},
 {"url": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json ","name": "ZB备1"},
 {"url": "https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json ","name": "ZB codeberg"}
 
