@@ -62,22 +62,22 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/
 G┃奇奇少儿频道:
 https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
 
-//https://github.catvod.com/:
+//https://gh.xxooo.cf/:
 
 G备1┃高天流云:
-https://github.catvod.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json
 G备1┃南风:
-https://github.catvod.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 G备1┃香雅情:
-https://github.catvod.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json
 G备1┃多多在线:
-https://github.catvod.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin
+https://gh.xxooo.cf/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin
 G备1┃裤老:
-https://github.catvod.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg
+https://gh.xxooo.cf/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg
 G备1┃小米:
-https://github.catvod.com/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G备1┃奇奇少儿频道:
-https://github.catvod.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
 
 //https://www.jsdelivr.com/:
 
@@ -98,26 +98,11 @@ https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json
 ZB:
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json
 ZB备:
-https://github.catvod.com/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json
 ZB备1:
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json
 ZB codeberg:
 https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
