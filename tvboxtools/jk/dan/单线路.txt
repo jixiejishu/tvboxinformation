@@ -41,8 +41,6 @@ https://www.小不点.com/
 https://6800.kstore.vip/fish.json
 🌳常┃欧歌:
 https://xn.v.nxog.top/m
-🌳常┃潇洒欧歌版:
-https://xn.v.nxog.top/apib.php?id=5
 //github 项目:
 
 //https://gh-proxy.com/ :
@@ -101,8 +99,9 @@ ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json
 ZB备1:
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json
-ZB codeberg:
-https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json
+ZB gitlab:
+https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt
+
 
 
 
