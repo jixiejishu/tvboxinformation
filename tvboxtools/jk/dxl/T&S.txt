@@ -21,7 +21,6 @@
 {"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
 {"url": "https://6800.kstore.vip/fish.json ","name": "🌳常┃摸鱼凯速"},
 {"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
-{"url": "https://xn.v.nxog.top/apib.php?id=5 ","name": "🌳常┃潇洒欧歌版"},
 //github 项目
 //https://gh-proxy.com/ 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
@@ -52,7 +51,7 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB备"},
 {"url": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json ","name": "ZB备1"},
-{"url": "https://codeberg.org/jixiejishu/tvboxzb/raw/branch/master/zb.json ","name": "ZB codeberg"}
+{"url": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt ","name": "ZB gitlab"}
 
 ]}
 
