@@ -94,9 +94,9 @@ https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json
 
 
 ZB:
-https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB备:
-https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB备1:
 https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@master/zbzx.json
 ZB gitlab:
