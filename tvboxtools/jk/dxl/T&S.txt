@@ -48,10 +48,10 @@
 {"url": "https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json ","name": "G备2┃小米"},
 {"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"},
 
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/zb.json ","name": "ZB备"},
-{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxzb@master/zb.json ","name": "ZB备1"},
-{"url": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt ","name": "ZB gitlab"}
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json ","name": "ZB"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json ","name": "ZB备"},
+{"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@master/zbzx.json ","name": "ZB备1"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
 ]}
 
