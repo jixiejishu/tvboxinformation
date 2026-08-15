@@ -1,5 +1,3 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr 等加速
-
 {"urls": [
 //QQ群 导航
 {"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
@@ -48,8 +46,8 @@
 {"url": "https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json ","name": "G备2┃小米"},
 {"url": "https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json ","name": "G备2┃奇奇少儿频道"},
 
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json ","name": "ZB"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/zbzx.json ","name": "ZB备"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB备"},
 {"url": "https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@master/zbzx.json ","name": "ZB备1"},
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
