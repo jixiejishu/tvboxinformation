@@ -163,8 +163,22 @@ https://github.com/leevi0709/one
 3.5裤老  
 官网    
 https://github.com/jsnzkpg/jsnzkpg  
+
+导航网页  
+https://jsnzkpg.com/  
 永久TVbox订阅  
 https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg  
+
+mafly  
+参考裤佬项目  
+https://github.com/mhmdxahmd/mafly  
+导航网页  
+https://www.maflya.com  
+maflya-TVBOX  
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2  
+
+maflya-iptv  
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u  
 
 3.6小米  
 https://github.com/ggrrttyyiii/CatVodSpider  
@@ -295,6 +309,12 @@ https://awaw.cc/post/lx-music-source
 
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js  
 
+裤佬  
+   https://dogpan.com/f/KOyDi4/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js  
+
+maflya  
+   https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/lx-maflya-Pro.js  
+
 6.3 青听音乐   
 只有安卓版   
 https://github.com/kejichangqing/QingMusic  
@@ -302,6 +322,25 @@ https://github.com/kejichangqing/QingMusic
 https://github.com/kejichangqing/QingMusic/releases  
 接口  
 https://13413.kstore.space/QingMusic/music.json  
+
+6.4Music Free   
+官网  
+可能已经停更  
+安卓版  
+https://github.com/maotoumao/MusicFree  
+电脑版  
+https://github.com/maotoumao/MusicFreeDesktop  
+接口   
+
+官方   
+https://raw.gitcode.com/maotoumao/MusicFreePlugins/raw/master/plugins.json  
+裤佬  
+  https://dogpan.com/f/JZxpTK/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js  
+maflya  
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/music/musicfree.js  
+
+其它第三方  
+https://github.com/wzh15802/lxmusic  
 
 
 7 ios  
