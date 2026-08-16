@@ -55,6 +55,8 @@ G┃多多在线:
 https://gh-proxy.org/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin
 G┃裤老:
 https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg
+G┃maflya:
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2
 G┃小米:
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G┃奇奇少儿频道:
@@ -72,33 +74,19 @@ G备1┃多多在线:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin
 G备1┃裤老:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg
+G备1┃maflya:
+https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2
 G备1┃小米:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G备1┃奇奇少儿频道:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
 
-//https://www.jsdelivr.com/:
-
-G备2┃高天流云:
-https://cdn.jsdelivr.net/gh/qist/tvbox@master/js.json
-G备2┃南风:
-https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json
-G备2┃香雅情:
-https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json
-G备2┃多多在线:
-https://cdn.jsdelivr.net/gh/leevi0709/one@main/config.bin
-G备2┃小米:
-https://cdn.jsdelivr.net/gh/ggrrttyyiii/CatVodSpider@main/json/demo.json
-G备2┃奇奇少儿频道:
-https://cdn.jsdelivr.net/gh/lubin776/0@main/tvbox/b2.json
 
 
 ZB:
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
-ZB备1:
-https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@master/zbzx.json
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
 
