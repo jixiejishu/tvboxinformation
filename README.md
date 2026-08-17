@@ -1,9 +1,8 @@
-# 常用TVbox-fongmi接口以及影音网站汇总
-
 <img width="1280" height="720" alt="1 资料总前言与tvbox-fongmi 常见软件介绍关系2026" src="https://github.com/user-attachments/assets/456694a3-e591-448e-89a1-4351043d104d" />
 
-# 1.影视TVbox接口  
-## 1.1  多线路接口：  
+1.影视TVbox接口  
+1.1  
+多线路接口：  
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt  
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt  
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt  
@@ -16,7 +15,8 @@ https://fastlink.cokey.xyz/f/RNBYso/T&S.txt
 
 
 
-## 1.2  多仓库接口：  
+1.2  
+多仓库接口：  
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt  
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt  
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dck/duo.txt  
@@ -27,25 +27,24 @@ https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dck/duo.
 https://fastlink.cokey.xyz/f/EQJQIX/duo.txt  
 
 
-## 1.3 单线路  
+1.3 单线路  
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dan/单线路.txt  
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dan/单线路.txt  
 https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dan/单线路.txt    
 
 gitlab  
-[https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dan/单线路.txt](https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dan/单线路.txt  "网络搜集")  
+https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dan/单线路.txt   
 
 酷云  
-[https://fastlink.cokey.xyz/f/OVeRsM/%E5%8D%95%E7%BA%BF%E8%B7%AF.txt  ](https://fastlink.cokey.xyz/f/OVeRsM/%E5%8D%95%E7%BA%BF%E8%B7%AF.txt  "网络搜集")  
+https://fastlink.cokey.xyz/f/OVeRsM/%E5%8D%95%E7%BA%BF%E8%B7%AF.txt  
 
 
 
 
 
+2.常用软件下载  
 
-# 2.常用软件下载  
-
-## 2.1 影视（fongmi）  
+2.1 影视（fongmi）  
 基于  CatVod项目：  https://github.com/CatVodTVOfficial/CatVodTVJarLoader （已经删库）  
 项目地址  
 https://github.com/FongMi/TV  
