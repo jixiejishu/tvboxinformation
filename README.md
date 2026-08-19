@@ -64,7 +64,7 @@ github项目右边的releases是下载地址
 [https://github.com/FongMi/Release](https://github.com/FongMi/Release  "影视官方")  
 
 电视版32位（电视首选）armeabi_v7a.apk     
-[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk   电视版32位（电视首选）")  
+[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk   电视版32位（电视首选）")   
 电视版64位   leanback-arm64_v8a.apk  
 [https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk    "电视版64位")  
 手机版  64位（手机首选） mobile-arm64_v8a.apk   
@@ -137,6 +137,14 @@ T版，黑版（界面深色）
 不开源。作者安卓哥开发。支持一次导入多个不同地址的仓库。  
 
 
+## 2.4 其它软件   
+UZ/UZN  
+项目地址：  
+[https://github.com/YYDS678/uzVideo         ](https://github.com/YYDS678/uzVideo       "UZ官方，需要加tg下载新版本 ")   
+软件支持多平台，支持ios,但是不开源。tg中发布新版本  
+
+[t.me/uzvideoplay   ](t.me/uzvideoplay  "频道 t.me/uzvideoplay ")   
+[ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
 
 
 
@@ -283,18 +291,9 @@ Github加速站点
 [https://github.com/ioptu/migu_video       ](https://github.com/ioptu/migu_video     "长期维护 ")   
 
 
-# 6.其它常见软件  
-## 6.1 UZ  
-项目地址：  
-[https://github.com/YYDS678/uzVideo         ](https://github.com/YYDS678/uzVideo       "UZ官方，需要加tg下载新版本 ")   
-软件支持多平台，支持ios,但是不开源。tg中发布新版本  
+# 6.音乐软件
 
-[t.me/uzvideoplay   ](t.me/uzvideoplay  "频道 t.me/uzvideoplay ")   
-[ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
-
-
-
-## 6.2 洛雪  
+## 6.1 洛雪  
 音乐软件  
 [https://lxmusic.toside.cn/   ](https://lxmusic.toside.cn/  "官网 ")   
  
@@ -330,6 +329,43 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/late
 maflya  
    https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/lx-maflya-Pro.js  
 
+wzh15802 音源  
+
+SixYin（六音最新版）  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js  
+Huibq  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js  
+Flower  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js  
+LX  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js  
+ikun  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js  
+Grass  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js  
+JuheApi  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js  
+QDY  
+https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js  
+
+
+## 6.2 Music Free  
+官网  
+[https://musicfree.catcat.work/     ](https://musicfree.catcat.work/       "MusicFree 安卓版  ")   
+可能已经停更  
+[https://github.com/maotoumao/MusicFree   ](https://github.com/maotoumao/MusicFree     "MusicFree 安卓版  ")   
+电脑版  
+[https://github.com/maotoumao/MusicFreeDesktop ](https://github.com/maotoumao/MusicFreeDesktop   "MusicFree 电脑版")   
+ 
+接口   
+官方   
+https://raw.gitcode.com/maotoumao/MusicFreePlugins/raw/master/plugins.json  
+裤佬    
+https://dogpan.com/f/JZxpTK/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js  
+maflya    
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/music/musicfree.js  
+
+
 
 ## 6.3 青听音乐   
 只有安卓版   
@@ -339,6 +375,7 @@ https://13413.kstore.space/QingMusic/music.json
 
 ## 6.4Music Free   
 官网  
+[https://musicfree.catcat.work/  ](https://musicfree.catcat.work/    "Music Free官网  ")   
 可能已经停更  
 安卓版  
 [https://github.com/maotoumao/MusicFree   ](https://github.com/maotoumao/MusicFree    "Music Free  ")   
@@ -350,12 +387,22 @@ https://13413.kstore.space/QingMusic/music.json
 官方   
 https://raw.gitcode.com/maotoumao/MusicFreePlugins/raw/master/plugins.json  
 裤佬  
-  https://dogpan.com/f/JZxpTK/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js  
+ https://dogpan.com/f/JZxpTK/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js  
 maflya  
 https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/music/musicfree.js  
 
-其它第三方  
-[https://github.com/wzh15802/lxmusic ](https://github.com/wzh15802/lxmusic "Music Free  ")   
+
+## 6.5音源重要项目  
+
+wzh15802/  
+[https://github.com/wzh15802/lxmusic ](https://github.com/wzh15802/lxmusic "wzh15802/ ")   
+网页  
+[https://music.imwzh.com/ ](https://music.imwzh.com/ "imwzh.com  ")   
+
+lx-music-source  
+[https://github.com/pdone/lx-music-source ](https://github.com/pdone/lx-music-source "lx-music-source github  ")   
+网页  
+[https://awaw.cc/post/lx-music-source   ](https://awaw.cc/post/lx-music-source  "lx-music-source  ")   
 
 
 # 7 ios  
@@ -370,25 +417,29 @@ md5接口 猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁通用
 
 比较麻烦 需要使用非国区ID登陆安装，或者非国区苹果电脑下载后传入手机安装，
 
-类似的还有JSTV
+类似的还有JSTV  
 
 
 
 ## 7.2伪上架  
+
+硬核指南  
+[https://t.me/TVBoxxoo   ](https://t.me/TVBoxxoo  "硬核指南  官网  ")    
+
 聚玩盒子  
 [https://juwanhezi.com/   ](https://juwanhezi.com/  "聚玩盒子官网  ")   
-
 广告非常多。有伪装上架（伪上架）的ios软件  
-硬核指南  
-[https://yinghezhinan.com/ios-app/    ](https://yinghezhinan.com/ios-app/   "硬核指南  官网  ")    
 
 
 
 ## 7.3  
 需要自签或者使用巨魔    
-羊壳 PeeKPro  
-UZ  
+羊壳 PeeKPro  UZ  UZN 
 
+
+## 7.4 ibox   
+饭太硬群组    
+[https://t.me/TVBoxxoo   ](https://t.me/TVBoxxoo "饭太硬群组    ")    
 
 
 
