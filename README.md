@@ -64,7 +64,7 @@ github项目右边的releases是下载地址
 [https://github.com/FongMi/Release](https://github.com/FongMi/Release  "影视官方")  
 
 电视版32位（电视首选）armeabi_v7a.apk     
-[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk   电视版32位（电视首选）")   
+[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk    "电视版32位（电视首选）")   
 电视版64位   leanback-arm64_v8a.apk  
 [https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk    "电视版64位")  
 手机版  64位（手机首选） mobile-arm64_v8a.apk   
@@ -115,7 +115,7 @@ github项目右边的releases是下载地址
 ### 2.2.3 TV-Multiplatform  
 影视的二次开发版，支持PC，目前功能不是很完善。不兼容影视/Tvbox的接口  
 项目地址  
-[https://github.com/Greatwallcorner/TV-Multiplatform     ]https://github.com/Greatwallcorner/TV-Multiplatform     " TV-Multiplatform  官方")  
+[https://github.com/Greatwallcorner/TV-Multiplatform  ](https://github.com/Greatwallcorner/TV-Multiplatform  " TV-Multiplatform  官方")  
 
 ## 2.3 TVbox  
 ### 2.3.1TVbox  
