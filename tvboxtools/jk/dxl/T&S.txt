@@ -19,7 +19,9 @@
 {"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
 {"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
-{"url": "https://6800.kstore.vip/fish.json ","name": "🌳常┃摸鱼凯速"},
+{"url": "http://www.英格里希嗷呜.top/tv  ","name": "🌳常┃嗷呜"},
+{"url": "http://itv666.cc/aowu/config.webp ","name": "🌳常┃嗷呜备1"},
+{"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
 {"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
 //github 项目
 //https://gh-proxy.com/ 
@@ -48,5 +50,3 @@
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
 ]}
-
-
