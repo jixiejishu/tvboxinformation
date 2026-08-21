@@ -64,7 +64,7 @@ github项目右边的releases是下载地址
 [https://github.com/FongMi/Release](https://github.com/FongMi/Release  "影视官方")  
 
 电视版32位（电视首选）armeabi_v7a.apk     
-[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk    "电视版32位（电视首选）")   
+[https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk   "电视版32位（电视首选）")  
 电视版64位   leanback-arm64_v8a.apk  
 [https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk  ](https://gh-proxy.org/https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/leanback-arm64_v8a.apk    "电视版64位")  
 手机版  64位（手机首选） mobile-arm64_v8a.apk   
@@ -97,7 +97,10 @@ github项目右边的releases是下载地址
 
 影视的二次开发版，最早版本PeekMill 外号羊壳，不支持TV。支持ios  
 功能很强，类似以前的猫影视。
-其中ios windows版 支持  t4 .md5两种格式，安卓版还支持tvbox的格式, 运行php还需要安装php。
+其中苹果电脑 windows版 支持  t4 .md5两种格式，  
+安卓版还支持tvbox的格式, 运行php还需要安装php。  
+苹果iOS系统不支持PHP，py脚本及其他本地包！  
+用巨魔的不要直接巨魔安装，先用全能签签名打开文件访问，再巨魔安装  
 项目地址  
 [https://github.com/ingriddaleusag-dotcom/PickTV  ](https://github.com/ingriddaleusag-dotcom/PickTV    "PeekPro  官方")  
 
@@ -115,7 +118,7 @@ github项目右边的releases是下载地址
 ### 2.2.3 TV-Multiplatform  
 影视的二次开发版，支持PC，目前功能不是很完善。不兼容影视/Tvbox的接口  
 项目地址  
-[https://github.com/Greatwallcorner/TV-Multiplatform  ](https://github.com/Greatwallcorner/TV-Multiplatform  " TV-Multiplatform  官方")  
+[https://github.com/Greatwallcorner/TV-Multiplatform     ](https://github.com/Greatwallcorner/TV-Multiplatform     " TV-Multiplatform  官方")  
 
 ## 2.3 TVbox  
 ### 2.3.1TVbox  
@@ -145,6 +148,13 @@ UZ/UZN
 
 [t.me/uzvideoplay   ](t.me/uzvideoplay  "频道 t.me/uzvideoplay ")   
 [ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
+
+
+## 2.5网盘下载
+
+第三方网盘  
+[https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
+
 
 
 
@@ -264,7 +274,7 @@ Github加速站点
 [https://www.小不点.com/ ](https://www.小不点.com/ "摸鱼儿")   
 
 嗷呜    
-[http://www.英格里希嗷呜.top](http://www.英格里希嗷呜.top")   
+[http://www.英格里希嗷呜.top](http://www.英格里希嗷呜.top") 
 
 
 
@@ -409,6 +419,7 @@ lx-music-source
 ## 7.1  
 Miraplay （ 魔力云播  ）   
 苹果应用商店上架  
+[https://apps.apple.com/   ](https://apps.apple.com/  苹果应用商店  ")   
 王二小  
 Miraplay 专用接口：  
 https://9280.kstore.vip/cat/index.js.md5  
@@ -432,18 +443,15 @@ md5接口 猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁通用
 
 
 
-## 7.3  
-需要自签或者使用巨魔    
-羊壳 PeeKPro  UZ  UZN 
+## 7.3  开源软件
+需要自签或者使用巨魔  
+PeeKPro（羊壳 ，先万能签然后巨魔）  
+UZ UZN    
 
 
-## 7.4 ibox   
-饭太硬群组    
+## 7.4 非开源软件  
+ibox    
 [https://t.me/TVBoxxoo   ](https://t.me/TVBoxxoo "饭太硬群组    ")    
-
-
-
-
 
 
 
