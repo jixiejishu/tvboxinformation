@@ -150,10 +150,14 @@ UZ/UZN
 [ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
 
 
-## 2.5网盘下载
 
-第三方网盘  
-[https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
+## 2.5 应用管家 
+应用管家QQ频道  
+[https://pd.qq.com/s/c2c47cpwq ](https://pd.qq.com/s/c2c47cpwq"应用管家QQ频道   ")   
+应用管家下载  
+[https://pd.qq.com/s/5o1prz3fe ](https://pd.qq.com/s/5o1prz3fe  "应用管家下载 ")   
+
+
 
 
 
@@ -198,6 +202,7 @@ maflya
   
 
 参考奇奇资源  
+
 [http://a.qiqiv.cn/zy.php    ](http://a.qiqiv.cn/zy.php   "奇奇资源官方")  
 
 
@@ -216,7 +221,8 @@ maflya
 [https://jkss.com/     ](https://jkss.com/      "影用仓库 官方")   
 
 ## 4.2奇奇  
-[http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇资源官方")   
+[http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇官网")   
+[http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇资源站")   
 [https://bbs.qiqiv.cn/thread-11996-1-1.html](https://bbs.qiqiv.cn/thread-11996-1-1.html "奇奇资源官方")   
 
 
