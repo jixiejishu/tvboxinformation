@@ -221,7 +221,9 @@ maflya
 [https://jkss.com/     ](https://jkss.com/      "影用仓库 官方")   
 
 ## 4.2奇奇  
-[http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇官网")   
+官网  
+[http://qiqiv.cn/](http://qiqiv.cn/ "奇奇官网")   
+奇奇资源站  
 [http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇资源站")   
 [https://bbs.qiqiv.cn/thread-11996-1-1.html](https://bbs.qiqiv.cn/thread-11996-1-1.html "奇奇资源官方")   
 
