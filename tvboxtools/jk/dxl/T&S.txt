@@ -1,13 +1,13 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr 等加速
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了网络搜集的加速
 
 {"urls": [
 //QQ群 导航
-{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
-{"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
-{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
-{"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
-{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
-{"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
+//检测软件签名会崩溃{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
+//检测软件签名会崩溃{"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
+//检测软件签名会崩溃{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
+//检测软件签名会崩溃{"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
+//检测软件签名会崩溃{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
+//检测软件签名会崩溃{"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
 {"url": "http://肥猫.net/tv ","name": "🌳常┃肥猫宝贝"},
 {"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
 {"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
@@ -33,6 +33,7 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G┃maflya"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G┃海豚"},
 
 //https://gh.xxooo.cf/
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
@@ -43,6 +44,7 @@
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G备1┃maflya"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G备1┃海豚"},
 
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
@@ -50,3 +52,4 @@
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
 ]}
+
