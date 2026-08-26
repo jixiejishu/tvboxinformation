@@ -153,7 +153,7 @@ UZ/UZN
 
 ## 2.5 应用管家 
 应用管家QQ频道  
-[https://pd.qq.com/s/c2c47cpwq ](https://pd.qq.com/s/c2c47cpwq"应用管家QQ频道   ")   
+[https://pd.qq.com/s/c2c47cpwq ](https://pd.qq.com/s/c2c47cpwq  "应用管家QQ频道  ")   
 应用管家下载  
 [https://pd.qq.com/s/5o1prz3fe ](https://pd.qq.com/s/5o1prz3fe  "应用管家下载 ")   
 
