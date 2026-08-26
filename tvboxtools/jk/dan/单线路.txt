@@ -1,19 +1,19 @@
-//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr 等加速
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了网络搜集的加速
 
 
 //QQ群 导航:
 
-🌳常┃饭太硬1:
+//检测软件签名会崩溃🌳常┃饭太硬1:
 http://www.饭太硬.cc/tv
-🌳常┃饭太硬2:
+//检测软件签名会崩溃🌳常┃饭太硬2:
 http://www.饭太硬.net/tv
-🌳常┃饭太硬备0:
+//检测软件签名会崩溃🌳常┃饭太硬备0:
 http://www.饭太硬.art/tv 
-🌳常┃饭太硬备1:
+//检测软件签名会崩溃🌳常┃饭太硬备1:
 http://fty.xxooo.cf/tv
-🌳常┃饭太硬备2:
+//检测软件签名会崩溃🌳常┃饭太硬备2:
 http://fty.888484.xyz/tv 
-🌳常┃饭太硬备3:
+//检测软件签名会崩溃🌳常┃饭太硬备3:
 http://fty.333232.xyz/tv
 🌳常┃肥猫宝贝:
 http://肥猫.net/tv
@@ -37,15 +37,12 @@ https://摸鱼儿.cc/
 http://我不是.摸鱼儿.cc/
 🌳常┃摸鱼备2:
 https://www.小不点.com/
-🌳常┃摸鱼凯速:
-https://6800.kstore.vip/fish.json
 🌳常┃嗷呜:
 http://www.英格里希嗷呜.top/tv 
 🌳常┃嗷呜备1:
 http://itv666.cc/aowu/config.webp
 🌳常┃嗷呜凯速:
 https://9763.kstore.vip/aowu.json
-
 🌳常┃欧歌:
 https://xn.v.nxog.top/m
 //github 项目:
@@ -68,6 +65,8 @@ G┃小米:
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G┃奇奇少儿频道:
 https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
+G┃海豚:
+https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23
 
 //https://gh.xxooo.cf/:
 
@@ -87,6 +86,8 @@ G备1┃小米:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G备1┃奇奇少儿频道:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
+G备1┃海豚:
+https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23
 
 
 
@@ -96,8 +97,6 @@ ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
-
-
 
 
 
