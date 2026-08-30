@@ -141,13 +141,30 @@ T版，黑版（界面深色）
 
 
 ## 2.4 其它软件   
-UZ/UZN  
+### 2.4.1 UZ/UZN   
+  
 项目地址：  
 [https://github.com/YYDS678/uzVideo         ](https://github.com/YYDS678/uzVideo       "UZ官方，需要加tg下载新版本 ")   
 软件支持多平台，支持ios,但是不开源。tg中发布新版本  
 
 [t.me/uzvideoplay   ](t.me/uzvideoplay  "频道 t.me/uzvideoplay ")   
 [ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
+
+
+### 2.4.2 蚂蚁影视   
+多平台， 支持猫爪源（MD5源）  
+项目地址  
+[https://github.com/ant-video/ant-video/   ](https://github.com/ant-video/ant-video/ "蚂蚁影视github")   
+[https://t.me/ant_video](https://t.me/ant_video "频道 https://t.me/ant_video")   
+
+### 2.4.3 CatPawPlayer   
+
+PC版猫爪源播放器  
+https://github.com/Ainanya21/CatPawPlayer
+群组  
+[https://t.me/CatPawPlayerChat](https://t.me/CatPawPlayerChat "官方群组")   
+频道  
+https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "官方频道")   
 
 
 
@@ -158,6 +175,10 @@ UZ/UZN
 [https://pd.qq.com/s/5o1prz3fe ](https://pd.qq.com/s/5o1prz3fe  "应用管家下载 ")   
 
 
+
+## 2.6网盘下载
+第三方网盘  
+[https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
 
 
 
@@ -226,6 +247,7 @@ maflya
 奇奇资源站  
 [http://a.qiqiv.cn/zy.php](http://a.qiqiv.cn/zy.php "奇奇资源站")   
 [https://bbs.qiqiv.cn/thread-11996-1-1.html](https://bbs.qiqiv.cn/thread-11996-1-1.html "奇奇资源官方")   
+
 
 
 ## 4.3看电视  
@@ -346,6 +368,8 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/late
 
 maflya  
    https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/lx-maflya-Pro.js  
+海豚  
+https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/MusicFree音源/音源.json  
 
 wzh15802 音源  
 
