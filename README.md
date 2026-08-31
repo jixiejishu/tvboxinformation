@@ -177,6 +177,7 @@ https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "官方频道")
 
 
 ## 2.6网盘下载
+
 第三方网盘  
 [https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
 
@@ -368,8 +369,7 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/late
 
 maflya  
    https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/lx-maflya-Pro.js  
-海豚  
-https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/MusicFree音源/音源.json  
+
 
 wzh15802 音源  
 
@@ -390,6 +390,8 @@ https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/mai
 QDY  
 https://gh-proxy.org/https://raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js  
 
+LX Music音乐直通车  
+[https://77f77.48364836.xyz/lx/  ](https://77f77.48364836.xyz/lx/  "点击打开网页里面有定期更新的源  ")   
 
 ## 6.2 Music Free  
 官网  
@@ -407,7 +409,8 @@ https://dogpan.com/f/JZxpTK/%E8%A3%A4%E4%BD%ACSVIP%E9%9F%B3%E6%BA%90.js
 maflya    
 https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/music/musicfree.js  
 
-
+海豚  
+https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/MusicFree音源/音源.json  
 
 ## 6.3 青听音乐   
 只有安卓版   
