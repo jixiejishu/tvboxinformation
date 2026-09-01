@@ -90,6 +90,33 @@ github项目右边的releases是下载地址
 项目地址  
 [https://github.com/Silent1566/webhtv ](https://github.com/Silent1566/webhtv   "默影视官方")  
  
+### 2.1.4motao 版webhtv  
+webhtv的二次开发版    
+项目  
+[https://github.com/motao123/webtv ](https://github.com/motao123/webtv   "github")  
+gitee    
+[https://motao123.github.io/webtv/ ](https://motao123.github.io/webtv/   "gitee")  
+
+
+### 2.1.5IsayIsee 版webhtv  
+webhtv的二次开发版 ，修改部分操作，功能没有变化  
+[https://github.com/IsayIsee/webhtv ](https://github.com/IsayIsee/webhtv "github项目")  
+下载  
+[https://github.com/IsayIsee/TVBoxOS-Build ](https://github.com/IsayIsee/TVBoxOS-Build  "下载地址")  
+
+
+### 2.1.6 TV-AutoBuild  
+基于影视二次开发的ZB工具软件  
+[https://github.com/iptvorganization/TV-AutoBuild ](https://github.com/iptvorganization/TV-AutoBuild "github项目地址")  
+
+
+2.1.7 新影视
+官方tg群已经解散 作者土豆  
+第三方下载  
+[https://appck.top/fm1/1219.html](https://appck.top/fm1/1219.html "影用仓库下载")  
+
+
+
 
 ## 2.2 影视多平台版
 
@@ -138,6 +165,39 @@ T版，黑版（界面深色）
 
 ### 2.3.2影视仓  
 不开源。作者安卓哥开发。支持一次导入多个不同地址的仓库。  
+[https://wmdz.top/tvboxC1.html  ](https://wmdz.top/tvboxC1.html    "影用仓库")  
+[https://appck.top/ysc1/36.html    ](https://appck.top/ysc1/36.html    "影用仓库")  
+
+
+
+
+2.3.3星河  
+多线路影视软件  
+只在官方群组发布  
+[https://t.me/xingluotv  ](https://t.me/xingluotv   "tg群组")  
+第三方下载  
+[https://wmdz.top/fm.html   ](https://wmdz.top/fm.html  "影用仓库")  
+
+2.3.4 Newbox  
+多仓版影视软件   
+TV版基于T版tvbox  
+移动版基于Mbox  
+QQ 频道  
+[https://pd.qq.com/s/br77g01fj  ](https://pd.qq.com/s/br77g01fj "QQ频道")  
+第三方下载  
+[https://appck.top/box1/1161.html ](https://appck.top/box1/1161.html  "影用仓库")  
+
+
+2.3.5ShellTV  
+单线路 Tvbox 二次开发版  
+[https://github.com/MyShellTV/ShellTV ](https://github.com/MyShellTV/ShellTV "github")  
+[https://gitee.com/shelltv/ShellTV  ](https://gitee.com/shelltv/ShellTV "gitee")  
+
+
+
+
+
+
 
 
 ## 2.4 其它软件   
@@ -159,12 +219,25 @@ T版，黑版（界面深色）
 
 ### 2.4.3 CatPawPlayer   
 
-PC版猫爪源播放器  
+PC版猫爪源播放器    
 https://github.com/Ainanya21/CatPawPlayer
 群组  
 [https://t.me/CatPawPlayerChat](https://t.me/CatPawPlayerChat "官方群组")   
 频道  
-https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "官方频道")   
+[https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "官方频道")   
+
+### 2.4.4  tvs  
+MD5接口壳，安卓和苹果  
+[https://github.com/yuluoos/TVBox-tvs](https://github.com/yuluoos/TVBox-tvs "github项目")   
+
+
+### 2.4.5 小猫影视  
+[https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "github项目")   
+频道:  
+[https://t.me/xiaomaoyingshi](https://t.me/xiaomaoyingshi"频道")   
+群组:   
+[https://t.me/catmovie1145](https://t.me/catmovie1145 "群组")   
+
 
 
 
@@ -178,6 +251,10 @@ https://t.me/CatPawPlayer](https://t.me/CatPawPlayer "官方频道")
 
 ## 2.6网盘下载
 
+网盘（版本可能会老一些，隔一段时间才能有空更新），影视可以用下面的链接直接下载     
+[https://share.feijipan.com/s/AnEEQTwX    ](https://share.feijipan.com/s/AnEEQTwX     "小飞机网盘")  
+[https://links.8uid.com/s/5c6459b28f73e65dafa5d0c9582e40a4      ](https://links.8uid.com/s/5c6459b28f73e65dafa5d0c9582e40a4        "个人笔记网盘")  
+[https://www.go127.com/s/BdRH7      ](https://www.go127.com/s/BdRH7       "127网盘")  
 第三方网盘  
 [https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
 
@@ -305,7 +382,17 @@ Github加速站点
 [https://www.小不点.com/ ](https://www.小不点.com/ "摸鱼儿")   
 
 嗷呜    
-[http://www.英格里希嗷呜.top](http://www.英格里希嗷呜.top") 
+[http://www.英格里希嗷呜.top](http://www.英格里希嗷呜.top "嗷呜")  
+
+路也迢迢群组  
+[https://t.me/+ZdonqFdXZahjNDY1](https://t.me/+ZdonqFdXZahjNDY1 "tg群组")  
+路也迢迢联频  
+[https://t.me/+wzQJ0lcidXI4N2Q1](https://t.me/+wzQJ0lcidXI4N2Q1 "tg频道")  
+
+a芽-APP自用🐾频道  
+[https://t.me/aya_app_tool](https://t.me/aya_app_tool "tg频道")  
+
+
 
 
 
@@ -451,19 +538,26 @@ lx-music-source
 
 
 # 7 ios  
-## 7.1  
+## 7.1应用商店  
+[https://apps.apple.com/   ](https://apps.apple.com/  "苹果应用商店 ")   
+
+JS TV   
+想要最大灵活度和脚本能力  
+国内可以搜索下载，支持MD5接口 高级功能付费  
+
+Hawk Player  
+想要全能播放器  
+国内可以搜索下载，支持MD5接口 高级功能付费  
+
 Miraplay （ 魔力云播  ）   
-苹果应用商店上架  
-[https://apps.apple.com/   ](https://apps.apple.com/  苹果应用商店  ")   
+专门的猫爪源播放器  
+需要外区ID，高级功能付费   
 王二小  
 Miraplay 专用接口：  
 https://9280.kstore.vip/cat/index.js.md5  
 
-md5接口 猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁通用  
-
-比较麻烦 需要使用非国区ID登陆安装，或者非国区苹果电脑下载后传入手机安装，
-
-类似的还有JSTV  
+md5接口通用下面的软件：     
+猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁  CatPawPlayer    tvs  
 
 
 
@@ -482,6 +576,7 @@ md5接口 猫影视最后版本 猫爪  UZN   MIraPlay  PeeKPro 蚂蚁通用
 需要自签或者使用巨魔  
 PeeKPro（羊壳 ，先万能签然后巨魔）  
 UZ UZN    
+蚂蚁影视 tvs  
 
 
 ## 7.4 非开源软件  
