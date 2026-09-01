@@ -251,10 +251,6 @@ MD5接口壳，安卓和苹果
 
 ## 2.6网盘下载
 
-网盘（版本可能会老一些，隔一段时间才能有空更新），影视可以用下面的链接直接下载     
-[https://share.feijipan.com/s/AnEEQTwX    ](https://share.feijipan.com/s/AnEEQTwX     "小飞机网盘")  
-[https://links.8uid.com/s/5c6459b28f73e65dafa5d0c9582e40a4      ](https://links.8uid.com/s/5c6459b28f73e65dafa5d0c9582e40a4        "个人笔记网盘")  
-[https://www.go127.com/s/BdRH7      ](https://www.go127.com/s/BdRH7       "127网盘")  
 第三方网盘  
 [https://526900.xyz/     ](https://526900.xyz/    "裤佬网盘  ")  
 
