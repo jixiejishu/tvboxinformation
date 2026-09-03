@@ -12,13 +12,11 @@
 //https://github.com/qist/tvbox
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json ","name": "🚗高天流云9918"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json ","name": "🚗高天流云99188"},
-//https://github.com/lubin776/tvbox
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/fm/fm18.json ","name": "🚗lubin776"},
+//tg获取
+{"url": "https://clun.top/fun.json ","name": "🚗clun.top"},
 //QQ群获取：https://github.com/bizhangjie/CatVodSpider
 {"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json ","name": "🚗bizhangjie"},
 {"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index.json ","name": "🚗bizhangjie2"}
 
 ]}
-
-
 

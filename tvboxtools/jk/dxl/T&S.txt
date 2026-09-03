@@ -23,6 +23,7 @@
 {"url": "http://itv666.cc/aowu/config.webp ","name": "🌳常┃嗷呜备1"},
 {"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
 {"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
+{"url": "https://9877.kstore.space/one.json ","name": "🌳常┃潇洒"},
 //github 项目
 //https://gh-proxy.com/ 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
@@ -54,10 +55,3 @@
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
 ]}
-
-
-
-
-
-
-
