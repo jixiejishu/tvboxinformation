@@ -92,6 +92,8 @@ github项目右边的releases是下载地址
  
 ### 2.1.4motao 版webhtv  
 webhtv的二次开发版    
+导航网页  
+[https://motao123.github.io/webtv/ ](https://motao123.github.io/webtv/ "导航网页")  
 项目  
 [https://github.com/motao123/webtv ](https://github.com/motao123/webtv   "github")  
 gitee    
@@ -121,7 +123,7 @@ webhtv的二次开发版 ，修改部分操作，功能没有变化
 ## 2.2 影视多平台版
 
 ### 2.2.1 PeekPro  
-
+支持MD5等多种源   
 影视的二次开发版，最早版本PeekMill 外号羊壳，不支持TV。支持ios  
 功能很强，类似以前的猫影视。
 其中苹果电脑 windows版 支持  t4 .md5两种格式，  
@@ -202,13 +204,15 @@ QQ 频道
 
 ## 2.4 其它软件   
 ### 2.4.1 UZ/UZN   
-  
+UZ  
 项目地址：  
 [https://github.com/YYDS678/uzVideo         ](https://github.com/YYDS678/uzVideo       "UZ官方，需要加tg下载新版本 ")   
 软件支持多平台，支持ios,但是不开源。tg中发布新版本  
 
 [t.me/uzvideoplay   ](t.me/uzvideoplay  "频道 t.me/uzvideoplay ")   
 [ t.me/uzVideoApp   ]( t.me/uzVideoApp "群组 t.me/uzVideoApp ")   
+UZN（MD5源）频道  
+[ https://t.me/PPANZU    ]( https://t.me/PPANZU  "UZN群组") 
 
 
 ### 2.4.2 蚂蚁影视   
@@ -305,6 +309,13 @@ maflya
 项目地址  
 [https://github.com/lubin776/tvbox    ](https://github.com/lubin776/tvbox     "lubin776 ")  
 
+## 3.9MD5源  
+项目  
+[https://github.com/Darklessing/catvod  ](https://github.com/Darklessing/catvod "Github ")  
+
+## 3.10潇洒项目  
+[https://github.com/PizazzGY/NewTVBox ](https://github.com/PizazzGY/NewTVBox "GitHub")  
+
 
 # 4.资料网站  
 
@@ -357,6 +368,16 @@ Github加速站点
 [https://github.ednovas.xyz/         ](https://github.ednovas.xyz/      "https://github.ednovas.xyz/   ")     
 [https://ghproxy.net/        ](https://ghproxy.net/       "https://ghproxy.net/   ")   
 [https://cdn.jsdelivr.net       ](https://cdn.jsdelivr.net      "按网站提示操作  ")   
+
+4.7.3 青柠  
+项目  
+[https://github.com/Zhou-Li-Bin/Tvbox-QingNing ](https://github.com/Zhou-Li-Bin/Tvbox-QingNing  "GitHub项目  ")   
+
+导航网  
+[https://132130.xyz/     ](https://132130.xyz/   "软件在网盘内  ")   
+
+资料网站  
+[https://link3.cc/qingningshare    ](https://link3.cc/qingningshare    "https://link3.cc/网站  ")   
 
 
 
@@ -578,6 +599,9 @@ UZ UZN
 ## 7.4 非开源软件  
 ibox    
 [https://t.me/TVBoxxoo   ](https://t.me/TVBoxxoo "饭太硬群组    ")    
+
+## 7.4 ios付费软件
+ios可换源软件大部分都是付费的，比如XPTV APTV  
 
 
 
