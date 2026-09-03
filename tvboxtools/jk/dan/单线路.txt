@@ -45,6 +45,8 @@ http://itv666.cc/aowu/config.webp
 https://9763.kstore.vip/aowu.json
 🌳常┃欧歌:
 https://xn.v.nxog.top/m
+🌳常┃潇洒:
+https://9877.kstore.space/one.json
 //github 项目:
 
 //https://gh-proxy.com/ :
@@ -101,6 +103,19 @@ ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
