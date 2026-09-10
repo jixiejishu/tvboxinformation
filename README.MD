@@ -1,6 +1,6 @@
-# 常用TVbox-fongmi接口以及影音网站汇总
+# Catvod 重要项目历史
 
-<img width="1280" height="720" alt="常见软件介绍关系2026" src="https://github.com/user-attachments/assets/9badaa50-eb41-4353-a589-ebde86917b7a" />
+
 
 # 常用接口与软件下载
 
