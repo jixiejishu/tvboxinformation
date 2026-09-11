@@ -1,5 +1,3 @@
-//来自于网络收集。如果有需要可以自行复制 
-
 {"urls": [
 //QQ群 导航
 //检测软件签名会崩溃{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
@@ -16,13 +14,13 @@
 {"url": "http://new.王二小放牛娃.top ","name": "🌳常┃王小二备1"},
 {"url": "http://new.999888123.xyz ","name": "🌳常┃王小二备2"},
 {"url": "https://9280.kstore.vip/aiwex.json ","name": "🌳常┃王二凯速"},
-{"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
-{"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
-{"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
+//关闭服务{"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
+//关闭服务{"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
+//关闭服务{"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
 {"url": "http://www.英格里希嗷呜.top/tv  ","name": "🌳常┃嗷呜"},
 {"url": "http://www.2525666.xyz/tv ","name": "🌳常┃嗷呜备1"},
 {"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
-{"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
+{"url": "https://xn.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=xn ","name": "🌳常┃欧歌"},
 {"url": "https://9877.kstore.space/one.json ","name": "🌳常┃潇洒"},
 //github 项目
 //https://gh-proxy.com/ 
