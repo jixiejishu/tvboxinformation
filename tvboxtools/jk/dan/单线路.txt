@@ -67,10 +67,12 @@ G┃小米:
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G┃奇奇少儿频道:
 https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
-G┃海豚常规:
+//五天换一次名字，GitHub上面有新名字G┃海豚常规:
 https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22
-G┃海豚鱼壳:
+//五天换一次名字，GitHub上面有新名字G┃海豚鱼壳:
 https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23
+G┃兔兔佬:
+https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
 
 //https://gh.xxooo.cf/:
 
@@ -90,10 +92,12 @@ G备1┃小米:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G备1┃奇奇少儿频道:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
-G备1┃海豚常规:
+//五天换一次名字，GitHub上面有新名字G备1┃海豚常规:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22
-G备1┃海豚鱼壳:
+//五天换一次名字，GitHub上面有新名字G备1┃海豚鱼壳:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23
+G备1┃兔兔佬:
+https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
 
 
 
@@ -103,6 +107,10 @@ ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
+
+
+
+
 
 
 
