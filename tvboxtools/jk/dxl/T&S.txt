@@ -1,3 +1,5 @@
+//来自于网络收集。如果有需要可以自行复制 
+
 {"urls": [
 //QQ群 导航
 //检测软件签名会崩溃{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
@@ -32,8 +34,9 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G┃maflya"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G┃海豚常规"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G┃海豚鱼壳"},
+//五天换一次名字，GitHub上面有新名字{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G┃海豚常规"},
+//五天换一次名字，GitHub上面有新名字{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G┃海豚鱼壳"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G┃兔兔佬"},
 
 //https://gh.xxooo.cf/
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
@@ -44,8 +47,9 @@
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G备1┃maflya"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G备1┃海豚常规"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G备1┃海豚鱼壳"},
+//五天换一次名字，GitHub上面有新名字{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G备1┃海豚常规"},
+//五天换一次名字，GitHub上面有新名字{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G备1┃海豚鱼壳"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G备1┃兔兔佬"},
 
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
@@ -53,3 +57,5 @@
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
 
 ]}
+
+
