@@ -45,7 +45,7 @@ http://www.2525666.xyz/tv
 https://9763.kstore.vip/aowu.json
 🌳常┃欧歌:
 https://xn.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=xn
-🌳常┃潇洒:
+//关闭服务🌳常┃潇洒:
 https://9877.kstore.space/one.json
 //github 项目:
 
@@ -107,6 +107,13 @@ ZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
+
+
+
+
+
+
+
 
 
 
