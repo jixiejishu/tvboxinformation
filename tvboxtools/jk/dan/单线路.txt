@@ -3,17 +3,17 @@
 
 //QQ群 导航:
 
-//检测软件签名会崩溃🌳常┃饭太硬1:
+🌳常┃饭太硬1:
 http://www.饭太硬.cc/tv
-//检测软件签名会崩溃🌳常┃饭太硬2:
+🌳常┃饭太硬2:
 http://www.饭太硬.net/tv
-//检测软件签名会崩溃🌳常┃饭太硬备0:
+🌳常┃饭太硬备0:
 http://www.饭太硬.art/tv 
-//检测软件签名会崩溃🌳常┃饭太硬备1:
+🌳常┃饭太硬备1:
 http://fty.xxooo.cf/tv
-//检测软件签名会崩溃🌳常┃饭太硬备2:
+🌳常┃饭太硬备2:
 http://fty.888484.xyz/tv 
-//检测软件签名会崩溃🌳常┃饭太硬备3:
+🌳常┃饭太硬备3:
 http://fty.333232.xyz/tv
 🌳常┃肥猫宝贝:
 http://肥猫.net/tv
@@ -108,15 +108,39 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/head
 ZB gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
 
+//md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
 
 
-
-
-
-
-
-
-
+🐈猫源┃牛二:
+https://9280.kstore.vip/cat/index.js.md5
+🐈猫源┃牛二备1:
+http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
+🐈猫源┃牛二备2:
+https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/niuer/index.js.md5
+🐈猫源┃Lmentor:
+https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5
+🐈猫源┃豆儿:
+https://woleigedouer:woleigedouer@catpaw.douer.me/index.js.md5
+🐈猫源┃豆儿备用:
+https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js.md5
+🐈猫源┃沐辰:
+https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
+🐈猫源┃Mafly V1:
+https://www.maflya.com/MAfly1/mao/index.js.md5
+🐈猫源┃Mafly V1备:
+https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/niuer/index.js.md5
+🐈猫源┃Mafly V3:
+https://maflya.com/MAfly1/mao/tangs/index.js.md5
+🐈猫源┃Mafly V3备:
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mao/tangs/index.js.md5
+🐈猫源┃泥潭采集:
+https://gh-proxy.org/https://raw.githubusercontent.com/nitan-tv/nitan/refs/heads/main/js/index.js.md5
+🐈猫源┃神秘猫源:
+https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/smdl/index.js.md5
+🐈猫源┃Y佬 JSTV源:
+https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
+🐈猫源┃兔兔佬 JSTV源:
+https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/jstv/index.js.md5
 
 
 
