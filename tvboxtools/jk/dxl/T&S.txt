@@ -2,12 +2,12 @@
 
 {"urls": [
 //QQ群 导航
-//检测软件签名会崩溃{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
-//检测软件签名会崩溃{"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
-//检测软件签名会崩溃{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
-//检测软件签名会崩溃{"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
-//检测软件签名会崩溃{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
-//检测软件签名会崩溃{"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
+{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
+{"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
+{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
+{"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
+{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
+{"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
 {"url": "http://肥猫.net/tv ","name": "🌳常┃肥猫宝贝"},
 {"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
 {"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
@@ -54,18 +54,25 @@
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB备"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"},
+
+//md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
+
+{"url": "https://9280.kstore.vip/cat/index.js.md5 ","name": "🐈猫源┃牛二"},
+{"url": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5 ","name": "🐈猫源┃牛二备1"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/niuer/index.js.md5 ","name": "🐈猫源┃牛二备2"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5 ","name": "🐈猫源┃Lmentor"},
+{"url": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js.md5 ","name": "🐈猫源┃豆儿"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/douer/index.js.md5 ","name": "🐈猫源┃豆儿备用"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5 ","name": "🐈猫源┃沐辰"},
+{"url": "https://www.maflya.com/MAfly1/mao/index.js.md5 ","name": "🐈猫源┃Mafly V1"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/niuer/index.js.md5 ","name": "🐈猫源┃Mafly V1备"},
+{"url": "https://maflya.com/MAfly1/mao/tangs/index.js.md5 ","name": "🐈猫源┃Mafly V3"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mao/tangs/index.js.md5 ","name": "🐈猫源┃Mafly V3备"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/nitan-tv/nitan/refs/heads/main/js/index.js.md5 ","name": "🐈猫源┃泥潭采集"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/smdl/index.js.md5 ","name": "🐈猫源┃神秘猫源"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5 ","name": "🐈猫源┃Y佬 JSTV源"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/jstv/index.js.md5 ","name": "🐈猫源┃兔兔佬 JSTV源"}
 
 ]}
-
-
-
-
-
-
-
-
-
-
-
 
