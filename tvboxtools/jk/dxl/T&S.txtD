@@ -18,6 +18,13 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/tvbox.json ","name": "🚗Tvpy"},
 //QQ群获取：https://github.com/bizhangjie/CatVodSpider
 {"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json ","name": "🚗bizhangjie"},
-{"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index.json ","name": "🚗bizhangjie2"}
+{"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index.json ","name": "🚗bizhangjie2"},
+//md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/dist/index.js.md5 ","name": "🐈猫源┃fangkuia"},
+{"url": "https://ghfast.top/https://raw.githubusercontent.com/ggboomla/catpaw/refs/heads/x3/index.js.md5 ","name": "🐈猫源┃ggboomla"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/androwsc/catvod/refs/heads/main/ad/index.js.md5 ","name": "🐈猫源┃androwsc"},
+{"url": "https://omnibox:18@omnibox.qzz.io/api/subscription/18/catvod/index.js.md5  ","name": "🐈猫源┃subscription"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5 ","name": "🐈猫源┃xymn2023"}
 
 ]}
+
