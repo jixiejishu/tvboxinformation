@@ -8,6 +8,7 @@
 {"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
 {"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
 {"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
+{"url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp ","name": "🌳常┃饭太硬江福建"},
 {"url": "http://肥猫.net/tv ","name": "🌳常┃肥猫宝贝"},
 {"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
 {"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
@@ -19,6 +20,7 @@
 {"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
 {"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
+{"url": "http://hb.小虎斑.site:25252/仅供测试/ ","name": "🌳常┃小虎斑"},
 {"url": "http://www.英格里希嗷呜.top/tv  ","name": "🌳常┃嗷呜"},
 {"url": "http://www.2525666.xyz/tv ","name": "🌳常┃嗷呜备1"},
 {"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
@@ -53,6 +55,7 @@
 
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/海豚智能接口.json ","name": "海豚智能添加"},
+{"url": "http://127.0.0.1:9978/file/peekpro/智能接口.json ","name": "海豚智能自定义"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB备"},
 {"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"},
@@ -76,13 +79,5 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5 ","name": "🐈猫源┃兔兔佬 JSTV源"}
 
 ]}
-
-
-
-
-
-
-
-
 
 
