@@ -25,7 +25,7 @@
 {"url": "http://www.2525666.xyz/tv ","name": "🌳常┃嗷呜备1"},
 {"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
 {"url": "https://xn.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=xn ","name": "🌳常┃欧歌"},
-//关闭服务{"url": "https://9877.kstore.space/one.json ","name": "🌳常┃潇洒"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.json ","name": "🌳常┃潇洒第三方"},
 //github 项目
 //https://gh-proxy.com/ 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
@@ -36,8 +36,8 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G┃maflya"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规663 ","name": "G┃海豚常规"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规664 ","name": "G┃海豚鱼壳"},
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/ok海豚常规 ","name": "G┃海豚常规"},
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/Web鱼壳海豚常规 ","name": "G┃海豚鱼壳"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G┃兔兔佬"},
 
 //https://gh.xxooo.cf/
@@ -56,9 +56,8 @@
 
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/海豚智能接口.json ","name": "海豚智能添加"},
 {"url": "http://127.0.0.1:9978/file/peekpro/智能接口.json ","name": "海豚智能自定义"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB备"},
-{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB备"},
 
 //md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
 
