@@ -49,8 +49,8 @@ http://www.2525666.xyz/tv
 https://9763.kstore.vip/aowu.json
 🌳常┃欧歌:
 https://xn.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=xn
-//关闭服务🌳常┃潇洒:
-https://9877.kstore.space/one.json
+🌳常┃潇洒第三方:
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.json
 //github 项目:
 
 //https://gh-proxy.com/ :
@@ -72,9 +72,9 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/
 G┃奇奇少儿频道:
 https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
 G┃海豚常规:
-https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规663
+https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/ok海豚常规
 G┃海豚鱼壳:
-https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规664
+https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/Web鱼壳海豚常规
 G┃兔兔佬:
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
 
@@ -110,11 +110,9 @@ https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads
 海豚智能自定义:
 http://127.0.0.1:9978/file/peekpro/智能接口.json
 ZB:
-https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json
 ZB备:
-https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json
-ZB gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json
+https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json
 
 //md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
 
@@ -149,6 +147,11 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/h
 https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
 🐈猫源┃兔兔佬 JSTV源:
 https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5
+
+
+
+
+
 
 
 
