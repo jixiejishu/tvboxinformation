@@ -1,3 +1,4 @@
+
 //来自于网络收集。如果有需要可以自行复制 ，
 
 
@@ -71,10 +72,6 @@ G┃小米:
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G┃奇奇少儿频道:
 https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
-G┃海豚常规:
-https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/ok海豚常规
-G┃海豚鱼壳:
-https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/Web鱼壳海豚常规
 G┃兔兔佬:
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
 
@@ -96,17 +93,17 @@ G备1┃小米:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 G备1┃奇奇少儿频道:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json
-G备1┃海豚常规:
-https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规663
-G备1┃海豚鱼壳:
-https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规664
 G备1┃兔兔佬:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
 
 
 
+海豚常规:
+https://gitlab.com/jixiejishu/HKL/-/raw/main/ok海豚常规.json
+海豚鱼壳:
+https://gitlab.com/jixiejishu/HKL/-/raw/main/Web鱼壳海豚常规.json
 海豚智能添加:
-https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/海豚智能接口.json
+https://gitlab.com/jixiejishu/HKL/-/raw/main/智能接口.json
 海豚智能自定义:
 http://127.0.0.1:9978/file/peekpro/智能接口.json
 ZB:
@@ -147,6 +144,8 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/h
 https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
 🐈猫源┃兔兔佬 JSTV源:
 https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5
+
+
 
 
 
