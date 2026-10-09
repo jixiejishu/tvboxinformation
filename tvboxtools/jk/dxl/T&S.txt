@@ -36,8 +36,6 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G┃maflya"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/ok海豚常规 ","name": "G┃海豚常规"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/Web鱼壳海豚常规 ","name": "G┃海豚鱼壳"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G┃兔兔佬"},
 
 //https://gh.xxooo.cf/
@@ -49,12 +47,12 @@
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G备1┃maflya"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规663 ","name": "G备1┃海豚常规"},
-{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规664 ","name": "G备1┃海豚鱼壳"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G备1┃兔兔佬"},
 
 
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/HKL/refs/heads/json/海豚智能接口.json ","name": "海豚智能添加"},
+{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/ok海豚常规.json ","name": "海豚常规"},
+{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/Web鱼壳海豚常规.json ","name": "海豚鱼壳"},
+{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/智能接口.json ","name": "海豚智能添加"},
 {"url": "http://127.0.0.1:9978/file/peekpro/智能接口.json ","name": "海豚智能自定义"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB备"},
