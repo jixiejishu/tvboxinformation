@@ -1,4 +1,3 @@
-
 //来自于网络收集。如果有需要可以自行复制 ，
 
 
@@ -144,10 +143,10 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/h
 https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
 🐈猫源┃兔兔佬 JSTV源:
 https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5
-
-
-
-
+🐈猫源┃潇洒带网盘:
+https://hw.361123.xyz/m/index.js.md5
+🐈猫源┃潇洒:
+https://hw.361123.xyz/n/index.js.md5
 
 
 
