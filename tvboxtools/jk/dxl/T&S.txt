@@ -73,8 +73,9 @@
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/nitan-tv/nitan/refs/heads/main/js/index.js.md5 ","name": "🐈猫源┃泥潭采集"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/smdl/index.js.md5 ","name": "🐈猫源┃神秘猫源"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5 ","name": "🐈猫源┃Y佬 JSTV源"},
-{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5 ","name": "🐈猫源┃兔兔佬 JSTV源"}
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5 ","name": "🐈猫源┃兔兔佬 JSTV源"},
+{"url": "https://hw.361123.xyz/m/index.js.md5 ","name": "🐈猫源┃潇洒带网盘"},
+{"url": "https://hw.361123.xyz/n/index.js.md5 ","name": "🐈猫源┃潇洒"}
 
 ]}
-
 
