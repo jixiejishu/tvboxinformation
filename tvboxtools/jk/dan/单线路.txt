@@ -143,13 +143,12 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/h
 https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
 🐈猫源┃兔兔佬 JSTV源:
 https://gh-proxy.org/https://raw.githubusercontent.com/xymn2023/catbox/refs/heads/main/av/index.js.md5
-🐈猫源┃潇洒带网盘:
-https://hw.361123.xyz/m/index.js.md5
-🐈猫源┃潇洒:
-https://hw.361123.xyz/n/index.js.md5
-
-
-
+🐈猫源┃潇洒1:
+https://gh-proxy.org/https://raw.githubusercontent.com/xiaosag/hmtv/main/index.js.md5
+🐈猫源┃潇洒2:
+https://gh-proxy.org/https://raw.githubusercontent.com/wangdacui003/hmtv/main/index.js.md5
+🐈猫源┃狸猫视界:
+https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/LeeCatPaw/refs/heads/main/index.js.md5
 
 
 
