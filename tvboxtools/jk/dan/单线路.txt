@@ -23,6 +23,10 @@ http://肥猫.net/tv
 http://hello.肥猫.net
 🌳常┃肥猫/备2:
 https://w.junce.dpdns.org/fm.gif
+🌳常┃肥猫安卓4:
+http://hello.肥猫.net/tv
+🌳常┃肥猫第三方:
+http://fm.litterfishs.kdns.fr/api.json
 🌳常┃奇奇戏曲:
 https://z.qiqiv.cn/666
 🌳常┃王小二:
@@ -49,6 +53,8 @@ http://www.2525666.xyz/tv
 https://9763.kstore.vip/aowu.json
 🌳常┃欧歌:
 https://xn.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=xn
+🌳常┃潇洒:
+https://9877.kstore.space/sun.json
 🌳常┃潇洒第三方:
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.json
 //github 项目:
@@ -149,6 +155,10 @@ https://gh-proxy.org/https://raw.githubusercontent.com/xiaosag/hmtv/main/index.j
 https://gh-proxy.org/https://raw.githubusercontent.com/wangdacui003/hmtv/main/index.js.md5
 🐈猫源┃狸猫视界:
 https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/LeeCatPaw/refs/heads/main/index.js.md5
+
+
+
+
 
 
 
