@@ -53,10 +53,6 @@
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json ","name": "G备1┃兔兔佬"},
 
 
-{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/ok海豚常规.json ","name": "海豚常规"},
-{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/Web鱼壳海豚常规.json ","name": "海豚鱼壳"},
-{"url": "https://gitlab.com/jixiejishu/HKL/-/raw/main/智能接口.json ","name": "海豚智能添加"},
-{"url": "http://127.0.0.1:9978/file/peekpro/智能接口.json ","name": "海豚智能自定义"},
 {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json ","name": "ZB备"},
 
