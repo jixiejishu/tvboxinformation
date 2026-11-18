@@ -52,13 +52,11 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads
 https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.jsonG备1┃奇奇少儿频道:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.jsonG备1┃兔兔佬:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json
-海豚常规:
-https://gitlab.com/jixiejishu/HKL/-/raw/main/ok海豚常规.json海豚鱼壳:
-https://gitlab.com/jixiejishu/HKL/-/raw/main/Web鱼壳海豚常规.json海豚智能添加:
-https://gitlab.com/jixiejishu/HKL/-/raw/main/智能接口.json海豚智能自定义:
-http://127.0.0.1:9978/file/peekpro/智能接口.jsonZB:
+
 https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.jsonZB备:
 https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json
+
+
 //md5源 影视 webhtv 默影视 可以批量导入，    uzn  蚂蚁影视 AinanPlayer tvs   神秘猫源的CatPawPlayer  单个线路导入
 
 🐈猫源┃牛二:
